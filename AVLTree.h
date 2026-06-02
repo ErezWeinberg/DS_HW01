@@ -239,6 +239,22 @@ public:
     T& find(const Key& key) {
         return findNode(root_m.get(), key);
     }
+    // Find the in-order predecessor for a given key
+    T* findPredecessor(const Key& key) {
+        Node* current = root_m.get();
+        Node* predecessor = nullptr;
+
+        while (current) {
+            if (comp_m(current->key_m, key)) {
+                predecessor = current;
+                current = current->right_m.get();
+            } else {
+                current = current->left_m.get();
+            }
+        }
+
+        return predecessor ? &(predecessor->data_m) : nullptr;
+    }
     // Interface to be implemented
     void insert(const Key& key, const T& data);
     void remove(const Key& key);
