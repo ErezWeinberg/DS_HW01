@@ -206,7 +206,30 @@ private:
             return node->data_m;
         }
     }
-    
+    void storeInArrayHelper(Node* node, KeyValuePair* arr, int& index) {
+        if (!node) {
+            return;
+        }
+        storeInArrayHelper(node->left_m.get(), arr, index);
+        arr[index].key_m = node->key_m;
+        arr[index].data_m = node->data_m;
+        index++;
+        storeInArrayHelper(node->right_m.get(), arr, index);
+    }
+
+    std::unique_ptr<Node> buildFromArrayHelper(KeyValuePair* arr, int start, int end) {
+        if (start > end) {
+            return nullptr;
+        }
+        int mid = start + (end - start) / 2;
+        auto node = std::make_unique<Node>(arr[mid].key_m, arr[mid].data_m);
+
+        node->left_m = buildFromArrayHelper(arr, start, mid - 1);
+        node->right_m = buildFromArrayHelper(arr, mid + 1, end);
+
+        updateHeight(node);
+        return node;
+    }
 public:
     AVLTree() : root_m(nullptr), size_m(0) {}
     
@@ -255,6 +278,32 @@ public:
 
         return predecessor ? &(predecessor->data_m) : nullptr;
     }
+    void storeInArray(KeyValuePair* arr) {
+        int index = 0;
+        storeInArrayHelper(root_m.get(), arr, index);
+    }
+
+    void buildFromArray(KeyValuePair* arr, int size) {
+        root_m = buildFromArrayHelper(arr, 0, size - 1);
+        size_m = size;
+    }
+
+    void clear() {
+        root_m.reset();
+        size_m = 0;
+    }
+    void setCapacity(int cap) {
+        capacity_m = cap;
+    }
+
+    void setCurrentNumOfGuests(int num) {
+        currentNumOfGuests_m = num;
+    }
+    // Struct to hold both key and data for array extraction
+    struct KeyValuePair {
+        Key key_m;
+        T data_m;
+    };
     // Interface to be implemented
     void insert(const Key& key, const T& data);
     void remove(const Key& key);

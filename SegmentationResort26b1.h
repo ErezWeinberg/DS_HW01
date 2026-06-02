@@ -14,12 +14,23 @@
 #define SegmentationResort26SPRING_H_
 
 #include "wet1util.h"
+#include "Guest.h"
+#include "Table.h"
+#include "Room.h"
+#include "AVLTree.h"
+#include "ActiveRoomsList.h"
 
 class SegmentationResort {
 private:
-    //
-    // Here you may add anything you want
-    //
+    // Core data structures
+    AVLTree<Guest, int> guestsTree_m;
+    AVLTree<Table, int> tablesTree_m;
+    AVLTree<Room, int> activeRoomsTree_m;
+    ActiveRoomsList activeRoomsList_m;
+
+    // Global state
+    int currentMealId_m;
+
     
 public:
     // <DO-NOT-MODIFY> {
