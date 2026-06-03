@@ -219,9 +219,9 @@ StatusType SegmentationResort::joinTables(int tableId1, int tableId2) {
 
         // Use smart pointers for dynamic arrays to guarantee no memory leaks
         using KVPair = AVLTree<Guest*, int>::KeyValuePair;
-        auto arr1 = std::make_unique<KVPair[]>(size1 > 0 ? size1 : 1);
-        auto arr2 = std::make_unique<KVPair[]>(size2 > 0 ? size2 : 1);
-        auto mergedArr = std::make_unique<KVPair[]>(totalSize > 0 ? totalSize : 1);
+        auto arr1 = std::unique_ptr<KVPair[]>(new KVPair[size1 > 0 ? size1 : 1]);
+        auto arr2 = std::unique_ptr<KVPair[]>(new KVPair[size2 > 0 ? size2 : 1]);
+        auto mergedArr = std::unique_ptr<KVPair[]>(new KVPair[totalSize > 0 ? totalSize : 1]);
 
         table1.getGuestsTree().storeInArray(arr1.get());
         table2.getGuestsTree().storeInArray(arr2.get());

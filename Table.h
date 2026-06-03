@@ -10,23 +10,23 @@ private:
     int tableId_m;
     int capacity_m;
     int currentNumOfGuests_m;
-    AVLTree<Guest*, int> guestsInTable_m; // The internal tree
+    AVLTree<Guest*, int> guestsInTable_m;
 
 public:
-    Table(int id, int cap) : 
+    Table(int id, int cap) :
         tableId_m(id), capacity_m(cap), currentNumOfGuests_m(0) {}
 
-    // Getters
     int getTableId() const { return tableId_m; }
     int getCapacity() const { return capacity_m; }
     int getCurrentNumOfGuests() const { return currentNumOfGuests_m; }
-    
-    // Provide access to the internal tree for insertions/removals
+
     AVLTree<Guest*, int>& getGuestsTree() { return guestsInTable_m; }
 
-    // Setters / Modifiers
     void addGuest() { currentNumOfGuests_m++; }
     void removeGuest() { currentNumOfGuests_m--; }
+
+    void setCapacity(int cap) { capacity_m = cap; }
+    void setCurrentNumOfGuests(int num) { currentNumOfGuests_m = num; }
 
     bool operator<(const Table& other) const {
         return this->tableId_m < other.tableId_m;
