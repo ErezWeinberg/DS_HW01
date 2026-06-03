@@ -1,0 +1,5000 @@
+addTable 832 6
+checkIn 3333 615
+checkIn 4757 3682
+joinFriend 2694 4757
+checkIn 4032 3318
+checkIn 1654 775
+checkIn 2323 2500
+enterDiningRoom 3333 832
+enterDiningRoom 4757 832
+checkIn 2289 1122
+leaveDiningRoom 3333 832
+enterDiningRoom 1654 832
+checkIn 4755 3511
+leaveDiningRoom 4757 832
+checkOut 3333
+checkIn 17 2584
+joinFriend 17 1654
+addTable 2733 1
+checkIn 2727 2108
+checkIn 364 223
+addTable 100 3
+checkIn 1107 2557
+checkIn 809 1786
+enterDiningRoom 4755 832
+removeTable 2733
+joinTables 100 832
+checkIn 2986 2444
+addTable 2263 1
+joinFriend 364 17
+checkIn 83 4336
+checkIn 2792 128
+addTable 819 1
+checkIn 3327 4926
+checkIn 2318 3628
+checkIn 3080 4608
+joinFriend 3327 3327
+checkIn 1886 1647
+enterDiningRoom 2986 2263
+checkIn 3010 166
+checkIn 2425 55
+checkIn 1202 155
+enterDiningRoom 3080 100
+checkOut 83
+enterDiningRoom 3327 100
+enterDiningRoom 3010 819
+cleanNextRoom
+leaveDiningRoom 4755 100
+checkOut 809
+checkIn 1753 4478
+cleanNextRoom
+addTable 2251 1
+removeTable 2251
+leaveDiningRoom 3080 100
+leaveDiningRoom 1654 100
+checkIn 324 4129
+checkIn 4166 781
+checkIn 4505 3432
+addTable 4248 8
+addTable 965 4
+joinTables 819 4381
+checkIn 1692 2503
+enterDiningRoom 324 100
+leaveDiningRoom 17 100
+removeTable 4248
+checkIn 2336 4194
+checkIn 4131 4275
+checkIn 3422 4609
+checkIn 3621 3641
+joinFriend 3422 2727
+checkIn 2444 1297
+enterDiningRoom 2289 965
+checkOut 3080
+leaveDiningRoom 324 100
+cleanNextRoom
+checkIn 2935 2154
+enterDiningRoom 3422 965
+leaveDiningRoom 2336 -27
+addTable 3616 7
+checkIn 3189 -17
+removeTable 3616
+checkOut 1886
+addTable 283 6
+addTable 2399 1
+checkIn 3491 4151
+joinFriend 4131 2289
+leaveDiningRoom 3327 100
+checkIn 1452 1215
+enterDiningRoom 2792 965
+addTable 3821 4
+checkIn 4174 4194
+leaveDiningRoom 3422 965
+checkIn 4131 2338
+reheatFood
+checkIn 0 4174
+enterDiningRoom 2425 100
+joinFriend 1753 2425
+checkIn 4310 166
+checkIn 1654 4052
+joinFriend 2323 2289
+removeTable 283
+enterDiningRoom 4505 100
+checkOut 1107
+enterDiningRoom 1692 3821
+checkIn 3784 677
+addTable 1774 4
+addTable 819 8
+leaveDiningRoom 963 819
+addTable 1207 3
+checkIn 2085 1472
+checkOut 2444
+addTable 4231 5
+enterDiningRoom 2718 3821
+enterDiningRoom 4032 2399
+enterDiningRoom 17 1774
+leaveDiningRoom 2425 100
+checkIn -6 4641
+cleanNextRoom
+checkIn 1846 972
+checkIn 1836 3179
+checkOut -10
+enterDiningRoom 3422 3821
+enterDiningRoom 4757 100
+checkOut 1753
+leaveDiningRoom 2289 965
+checkIn 2203 1026
+checkIn 365 1120
+enterDiningRoom 324 1774
+leaveDiningRoom 3010 819
+joinFriend 365 4131
+leaveDiningRoom 17 1774
+joinFriend 2336 4505
+cleanNextRoom
+leaveDiningRoom 2323 965
+checkIn 348 781
+addTable 3434 6
+checkIn 3878 2329
+checkIn 4773 3715
+cleanNextRoom
+enterDiningRoom 3784 3434
+joinFriend 4166 365
+enterDiningRoom 4755 1207
+reheatFood
+checkOut 1846
+removeTable 819
+checkIn 3052 1059
+enterDiningRoom 2323 1207
+checkIn 3534 4555
+removeTable 4231
+addTable 365 4
+checkIn 3845 2682
+checkIn 3144 858
+checkIn 3614 1477
+checkIn 4603 1040
+addTable 3523 4
+addTable 4597 3
+enterDiningRoom 3614 1774
+checkIn 1975 3200
+cleanNextRoom
+checkIn 3908 4885
+cleanNextRoom
+checkOut 4773
+cleanNextRoom
+enterDiningRoom 1654 1207
+joinFriend 2085 3614
+addTable 2459 3
+removeTable 4597
+enterDiningRoom 2289 365
+addTable 2250 4
+enterDiningRoom 3052 965
+reheatFood
+checkOut 17
+removeTable 3523
+checkIn 2364 1724
+cleanNextRoom
+enterDiningRoom 2203 100
+enterDiningRoom 2289 2459
+checkIn 199 2070
+joinFriend 2364 4032
+checkIn 1146 1360
+checkIn 1910 465
+addTable 2335 3
+cleanNextRoom
+checkOut 3908
+addTable 2335 7
+checkIn 3270 1430
+checkIn 2660 3511
+enterDiningRoom 1836 2459
+enterDiningRoom 4603 3821
+enterDiningRoom 3270 3821
+enterDiningRoom 199 365
+enterDiningRoom 3144 3434
+enterDiningRoom 1910 3434
+leaveDiningRoom 2986 2263
+reheatFood
+checkIn 1775 3691
+joinFriend 1452 3614
+reheatFood
+joinTables 2335 3821
+removeTable 2250
+checkIn 2871 1087
+checkOut 3052
+checkIn 2429 -8
+enterDiningRoom 3491 2263
+leaveDiningRoom 2792 965
+checkIn 1979 3515
+checkIn 2240 3078
+removeTable 2943
+checkIn 1460 808
+joinTables 965 100
+checkIn 2777 760
+checkIn 219 4599
+enterDiningRoom 3621 3434
+checkIn 4291 647
+checkOut 1202
+enterDiningRoom 1775 2459
+enterDiningRoom 1975 2459
+leaveDiningRoom 1975 2459
+leaveDiningRoom 2085 1774
+leaveDiningRoom 4032 2399
+joinFriend 1460 3270
+joinFriend 2364 3784
+checkIn 503 4776
+checkOut 1146
+cleanNextRoom
+joinTables 3434 1774
+checkOut 3878
+enterDiningRoom 2935 365
+checkIn 3065 4141
+addTable 4254 5
+leaveDiningRoom 2364 3434
+cleanNextRoom
+enterDiningRoom 2777 965
+checkIn 4353 692
+leaveDiningRoom 2289 365
+leaveDiningRoom 2777 965
+joinFriend 3534 3270
+addTable 1974 5
+enterDiningRoom 3010 2335
+cleanNextRoom
+joinFriend 1654 1587
+enterDiningRoom 4353 365
+enterDiningRoom 2727 2399
+joinFriend 2240 4166
+checkIn 2780 1518
+joinFriend 1979 2203
+cleanNextRoom
+checkIn 15 956
+checkIn 885 2354
+addTable 965 3
+enterDiningRoom 219 365
+cleanNextRoom
+checkIn 692 4510
+leaveDiningRoom 1753 965
+joinFriend 2986 2240
+addTable 1810 8
+joinTables 365 1207
+checkIn 3223 703
+checkIn 375 1879
+enterDiningRoom 3327 3434
+enterDiningRoom 2780 1974
+enterDiningRoom 2318 1974
+cleanNextRoom
+leaveDiningRoom 3614 3434
+joinFriend 3065 2318
+addTable 4464 4
+checkIn 2951 2961
+checkIn 3231 3672
+checkIn 2379 3521
+checkOut 4291
+checkIn 1692 2606
+enterDiningRoom 885 1974
+addTable 224 4
+joinFriend 199 199
+enterDiningRoom 503 224
+addTable 3745 4
+enterDiningRoom 3223 3745
+checkOut 2871
+checkIn 114 2997
+enterDiningRoom 3065 -6
+enterDiningRoom 692 1810
+enterDiningRoom 4757 -8
+checkIn 2507 911
+checkIn 3907 1823
+checkOut 1753
+checkOut 3845
+enterDiningRoom 375 2459
+cleanNextRoom
+reheatFood
+addTable 4286 7
+leaveDiningRoom 2318 1974
+enterDiningRoom 3231 4254
+checkIn 2870 1393
+checkIn 188 2708
+checkIn 2591 2961
+cleanNextRoom
+removeTable 4286
+joinFriend 4032 3065
+enterDiningRoom 2364 1810
+checkIn 3940 3598
+cleanNextRoom
+checkIn 960 547
+enterDiningRoom 2289 1974
+cleanNextRoom
+addTable 3753 7
+enterDiningRoom 960 3745
+enterDiningRoom 3614 3745
+checkIn 686 2578
+checkIn 1160 4877
+enterDiningRoom 686 224
+cleanNextRoom
+checkIn 3767 3439
+checkOut 1160
+cleanNextRoom
+addTable 4024 4
+joinTables 965 2335
+checkIn 4694 4795
+cleanNextRoom
+addTable 3570 3
+removeTable 4464
+addTable 2273 1
+checkIn 2257 1954
+addTable 3175 8
+enterDiningRoom 960 3753
+checkIn 2864 4290
+checkIn 4199 1148
+leaveDiningRoom 2323 365
+enterDiningRoom 4199 224
+addTable 4338 6
+checkIn 4461 4908
+joinFriend 2777 503
+leaveDiningRoom 3422 965
+checkIn 2355 2015
+addTable 2422 7
+addTable 11 1
+checkIn 4830 1440
+cleanNextRoom
+leaveDiningRoom 365 965
+joinFriend 2425 2364
+joinFriend 2951 1979
+joinFriend 2792 199
+enterDiningRoom 2318 224
+cleanNextRoom
+enterDiningRoom 2870 3434
+joinFriend 1975 4131
+checkOut 3456
+checkIn 1164 1810
+joinFriend -19 1164
+joinFriend 2507 1452
+enterDiningRoom 2379 4254
+addTable 3797 2
+cleanNextRoom
+enterDiningRoom 4755 671
+cleanNextRoom
+joinFriend 4830 2240
+addTable 4024 7
+addTable 3273 1
+joinFriend 3907 2203
+joinTables 2263 4024
+checkIn 3434 4064
+leaveDiningRoom 3231 4254
+reheatFood
+checkOut 2864
+cleanNextRoom
+checkIn 3811 40
+enterDiningRoom 3434 3273
+checkIn 1324 2533
+checkIn 4429 463
+leaveDiningRoom 1654 365
+enterDiningRoom 3231 3753
+joinTables 3273 3273
+checkIn 2614 3628
+joinFriend 4461 3784
+addTable 3669 1
+removeTable 3175
+checkIn 1134 882
+enterDiningRoom 2318 -3
+joinFriend 3767 692
+enterDiningRoom 400 4254
+addTable 2169 2
+reheatFood
+enterDiningRoom 4429 3797
+enterDiningRoom 2257 1810
+checkIn 4354 1509
+addTable 1765 7
+checkIn 3191 1315
+checkIn 3180 1612
+enterDiningRoom 4694 2169
+joinTables 3745 365
+joinFriend 2085 3231
+checkIn 4984 2189
+enterDiningRoom 3784 3669
+leaveDiningRoom 364 965
+joinTables 965 1810
+checkOut 4984
+joinFriend 3422 4755
+reheatFood
+leaveDiningRoom 692 965
+removeTable 3570
+enterDiningRoom 365 3669
+checkIn 3825 1040
+enterDiningRoom 2318 4338
+joinFriend 4354 4830
+checkIn 1213 472
+enterDiningRoom 114 965
+checkIn 203 236
+leaveDiningRoom 2203 965
+checkOut 1654
+addTable 2234 6
+cleanNextRoom
+enterDiningRoom 2355 4254
+checkIn 1975 235
+enterDiningRoom 3180 2399
+checkOut 3191
+cleanNextRoom
+removeTable 2273
+joinTables 3434 1765
+checkOut 15
+checkIn 2947 4873
+leaveDiningRoom 4932 3797
+joinFriend 2323 4429
+joinFriend 3940 4505
+enterDiningRoom 3434 2459
+joinFriend 203 4830
+leaveDiningRoom -7 2422
+checkIn 965 2676
+checkIn 2209 3086
+checkIn 3668 122
+leaveDiningRoom 2935 3745
+joinTables 2234 3434
+addTable 4748 4
+checkIn 1898 2205
+checkIn 3056 2260
+enterDiningRoom 3668 4748
+checkOut 3180
+enterDiningRoom 2947 3745
+checkIn 40 691
+leaveDiningRoom 686 224
+enterDiningRoom 3811 4338
+checkIn 1866 1030
+addTable -30 8
+leaveDiningRoom 1979 965
+checkIn 1212 787
+enterDiningRoom 188 4748
+addTable 488 1
+joinTables 1974 2422
+checkIn 4012 1168
+reheatFood
+joinFriend 364 2355
+joinFriend 1866 2792
+joinFriend 1979 2336
+cleanNextRoom
+joinFriend 40 4032
+cleanNextRoom
+joinFriend 2935 40
+enterDiningRoom 686 965
+addTable 1499 6
+checkIn 489 4848
+leaveDiningRoom 4505 965
+cleanNextRoom
+cleanNextRoom
+addTable 1795 7
+checkIn 2161 1384
+enterDiningRoom 1898 2234
+checkOut 4354
+checkIn 4867 4244
+enterDiningRoom 4012 4338
+joinTables 965 2234
+checkIn 3790 765
+addTable 1648 6
+enterDiningRoom 2203 2169
+joinTables 3797 2169
+enterDiningRoom 4505 1648
+checkIn 2581 3577
+checkIn 830 1746
+checkIn 1172 3239
+checkIn 4072 451
+checkIn 512 4546
+enterDiningRoom 3790 1648
+checkIn 736 3317
+removeTable 1795
+joinFriend 1324 3767
+joinTables 2263 965
+removeTable 488
+checkOut 965
+addTable 3249 6
+leaveDiningRoom 2336 2263
+checkIn 3367 769
+checkIn 3527 116
+addTable -5 5
+enterDiningRoom 1172 1499
+cleanNextRoom
+joinTables 3753 3745
+checkIn 4468 1697
+joinFriend 1212 324
+checkIn 2209 551
+enterDiningRoom 4505 1648
+enterDiningRoom 4468 3753
+checkIn -26 1264
+reheatFood
+addTable 143 5
+cleanNextRoom
+checkIn 902 2089
+enterDiningRoom 2336 3249
+checkIn 2101 2138
+enterDiningRoom -16 3249
+joinFriend 4867 1460
+checkIn 3526 3402
+joinTables 143 224
+enterDiningRoom 2581 143
+checkIn 1159 1458
+addTable 2236 4
+leaveDiningRoom 2085 3753
+joinFriend 736 4468
+checkIn 2561 1962
+cleanNextRoom
+checkIn 699 3819
+leaveDiningRoom 3223 3753
+reheatFood
+leaveDiningRoom 3784 2263
+checkIn 3115 3591
+checkIn 1371 1079
+joinTables 1974 3669
+addTable 3362 8
+joinFriend 1213 4131
+enterDiningRoom 3056 1974
+joinFriend 830 1172
+joinFriend 2085 960
+reheatFood
+leaveDiningRoom 3621 2263
+checkIn 17 4304
+checkIn 3861 1852
+enterDiningRoom 3115 3753
+leaveDiningRoom 2792 3753
+removeTable 3362
+joinFriend 3784 1866
+joinFriend 4072 188
+checkIn 2472 696
+enterDiningRoom 17 2263
+checkOut 2727
+reheatFood
+leaveDiningRoom 1692 2263
+joinFriend 1159 365
+addTable 1400 3
+enterDiningRoom 692 1974
+enterDiningRoom 489 1974
+enterDiningRoom 4505 1499
+checkIn 2732 3314
+leaveDiningRoom 3534 2263
+checkIn 4750 3570
+joinFriend 3621 2947
+joinFriend 3767 2845
+checkIn 4760 2761
+enterDiningRoom 699 1499
+joinTables 3797 143
+checkOut 3861
+checkIn 446 4780
+removeTable 1400
+joinTables 1648 2236
+checkIn 2318 4501
+checkIn 4753 2281
+checkIn 1833 236
+joinFriend 4750 3790
+enterDiningRoom 2472 4338
+checkIn 305 4185
+leaveDiningRoom 2364 2263
+checkIn 102 3668
+enterDiningRoom 4760 4254
+removeTable 11
+checkIn 1751 952
+joinFriend 1164 203
+checkOut 2209
+enterDiningRoom 4753 1648
+leaveDiningRoom 2777 3797
+joinFriend 512 3614
+addTable 4880 7
+enterDiningRoom 446 4880
+enterDiningRoom 2364 3249
+joinTables 3249 3753
+checkOut 2792
+checkIn 3924 1722
+checkIn 3170 71
+checkIn 4633 3641
+enterDiningRoom 3526 4748
+enterDiningRoom 2364 3249
+cleanNextRoom
+joinTables 4254 244
+addTable 1561 1
+leaveDiningRoom 512 3249
+addTable 3797 1
+checkIn 3984 2078
+joinFriend 902 4867
+enterDiningRoom 305 3797
+addTable 3673 1
+cleanNextRoom
+leaveDiningRoom 3784 3249
+addTable 4747 8
+joinFriend 2161 199
+joinTables 2399 1974
+checkOut -9
+checkIn 3851 574
+checkIn 493 4213
+checkIn 2271 2252
+removeTable -1
+checkIn 2257 1408
+joinTables 1499 3673
+joinFriend 3223 365
+enterDiningRoom 3527 2263
+enterDiningRoom 493 3249
+addTable 1648 7
+addTable 440 1
+joinFriend 1751 4867
+cleanNextRoom
+leaveDiningRoom 4429 3797
+addTable 3861 7
+enterDiningRoom 3984 2263
+checkIn 1309 1756
+enterDiningRoom 3851 4747
+removeTable 1561
+checkIn 1358 3089
+checkIn 4532 517
+joinFriend 2732 3422
+enterDiningRoom 1134 3249
+checkIn 2706 989
+checkIn 76 243
+addTable 4724 4
+checkIn 4341 1287
+checkOut 4532
+joinFriend 3056 -9
+joinFriend 4341 3115
+checkOut 2364
+leaveDiningRoom 873 4724
+addTable 1629 6
+checkIn 1960 967
+enterDiningRoom 2101 440
+enterDiningRoom 76 4880
+joinFriend 3924 1164
+enterDiningRoom 102 3797
+enterDiningRoom 2561 4724
+checkIn 3827 3370
+joinFriend 1371 902
+joinFriend 3827 3270
+checkOut 1358
+joinFriend 3170 4750
+checkIn 2110 428
+joinFriend 3367 4505
+joinTables 440 4254
+addTable 4992 4
+checkIn 604 1093
+leaveDiningRoom 2472 4338
+addTable 1484 6
+joinTables 4880 2459
+checkOut 3534
+removeTable 1484
+enterDiningRoom 2110 3249
+removeTable 3861
+cleanNextRoom
+reheatFood
+checkIn 2031 3820
+leaveDiningRoom 1134 3249
+joinFriend 3784 114
+checkOut 604
+checkIn 4562 1388
+removeTable 1629
+enterDiningRoom 2031 4338
+enterDiningRoom 2777 4880
+enterDiningRoom 1692 440
+leaveDiningRoom 4131 2263
+addTable 2855 8
+checkOut 4131
+checkIn 3894 2682
+checkIn 4411 3352
+checkOut 1134
+checkIn 2600 2236
+leaveDiningRoom 3270 2263
+leaveDiningRoom 4753 1648
+enterDiningRoom 4429 4747
+checkIn 643 1369
+enterDiningRoom 4562 3797
+leaveDiningRoom 2777 4880
+checkIn -10 200
+joinFriend 3894 3811
+addTable 519 2
+checkIn 4947 4689
+joinFriend 512 1751
+checkIn 3328 3699
+checkIn 1007 2476
+removeTable 4992
+joinFriend 3328 1898
+addTable 4032 5
+enterDiningRoom 2271 4724
+joinFriend 643 1751
+joinFriend 4947 2581
+checkIn 4994 445
+enterDiningRoom 4411 1499
+joinFriend 1309 3328
+leaveDiningRoom 375 4880
+checkIn 2015 4814
+joinFriend 2472 3170
+leaveDiningRoom 1172 1499
+removeTable 4032
+cleanNextRoom
+joinFriend 2600 2318
+enterDiningRoom 4994 1648
+leaveDiningRoom 4429 4747
+enterDiningRoom 1007 519
+cleanNextRoom
+enterDiningRoom 2015 519
+joinFriend 1960 219
+joinTables 4880 2263
+leaveDiningRoom 885 2399
+enterDiningRoom 2706 3249
+checkIn 4643 2962
+checkIn 3610 4426
+enterDiningRoom 2777 2399
+checkIn 1965 4067
+checkOut 365
+removeTable 2855
+joinFriend 3610 4867
+checkIn 2567 129
+checkOut 4643
+addTable 1401 5
+joinTables 4748 4747
+checkOut 3270
+cleanNextRoom
+leaveDiningRoom 40 2399
+enterDiningRoom 1965 1401
+checkIn 2386 -3
+addTable 1934 8
+joinFriend 2567 4353
+addTable 519 3
+cleanNextRoom
+joinTables 4724 4724
+checkOut 40
+cleanNextRoom
+enterDiningRoom 2985 519
+checkOut 446
+enterDiningRoom 2220 2453
+joinFriend 252 203
+checkOut 885
+enterDiningRoom 2795 1750
+joinTables 4748 1401
+leaveDiningRoom 3115 3249
+addTable 3961 2
+cleanNextRoom
+leaveDiningRoom 512 4880
+joinFriend 1139 1212
+enterDiningRoom 1500 4182
+enterDiningRoom 2376 2332
+joinFriend 418 199
+enterDiningRoom 549 96
+checkIn 1800 3529
+joinFriend 1800 1979
+addTable 1499 1
+joinFriend 2217 2110
+checkIn 4755 253
+addTable 4982 7
+checkIn -29 1980
+enterDiningRoom 4793 2559
+checkOut -17
+checkIn 3762 4176
+checkOut 4429
+reheatFood
+enterDiningRoom 4753 3961
+addTable 1641 3
+checkIn 3614 4832
+checkOut 375
+enterDiningRoom 512 1934
+addTable 3477 1
+checkIn 3859 1479
+checkIn 3433 2212
+joinFriend 1172 4694
+checkOut 3859
+addTable 4109 8
+addTable 4863 4
+checkIn 3247 1771
+enterDiningRoom 3762 3477
+enterDiningRoom 3115 1641
+enterDiningRoom 3247 4748
+checkIn 3401 2086
+checkOut 3433
+joinTables 4338 3477
+addTable 1144 7
+removeTable 1144
+enterDiningRoom 2777 2399
+checkOut 3401
+checkIn 657 1245
+enterDiningRoom 657 1648
+joinTables 3797 440
+leaveDiningRoom 686 4880
+reheatFood
+checkIn 4632 3700
+enterDiningRoom 686 3961
+leaveDiningRoom 365 2399
+enterDiningRoom 4632 4724
+addTable 229 8
+checkIn 4788 3285
+enterDiningRoom 4788 3797
+enterDiningRoom 2475 4487
+checkOut 365
+addTable 63 7
+checkIn 2745 1546
+enterDiningRoom 2745 3797
+cleanNextRoom
+checkIn 3874 805
+joinTables 2399 4982
+leaveDiningRoom 4354 4880
+checkIn 4642 1173
+leaveDiningRoom 17 4880
+enterDiningRoom 4642 229
+addTable 3399 4
+checkIn 2368 2685
+addTable 2026 6
+addTable 4438 8
+checkOut 4354
+addTable 4691 7
+checkIn 556 3010
+enterDiningRoom 556 3249
+checkIn 2657 765
+checkIn 1163 3272
+enterDiningRoom 2368 2026
+checkIn 3793 1346
+enterDiningRoom 1163 1641
+addTable 2059 5
+checkIn 1194 3828
+enterDiningRoom 3874 1641
+checkIn 3382 765
+leaveDiningRoom 3328 4880
+enterDiningRoom 1194 1499
+enterDiningRoom 3793 2026
+checkIn 764 2668
+joinFriend 764 2240
+joinTables 4338 2026
+checkIn 880 17
+leaveDiningRoom 2777 2399
+cleanNextRoom
+addTable 4793 2
+checkOut 880
+enterDiningRoom 2105 3001
+removeTable 2059
+checkIn 677 342
+addTable 2284 2
+enterDiningRoom 677 4438
+enterDiningRoom 3595 3894
+addTable 4269 4
+enterDiningRoom 97 3574
+enterDiningRoom 2457 4572
+cleanNextRoom
+checkOut 17
+checkIn 390 358
+cleanNextRoom
+enterDiningRoom 390 3399
+joinTables 4748 28
+leaveDiningRoom 1172 3797
+leaveDiningRoom 2379 3797
+addTable 1739 5
+enterDiningRoom 1022 879
+cleanNextRoom
+joinFriend 4518 3811
+addTable 494 6
+enterDiningRoom 1010 4457
+checkIn 4320 4576
+addTable 269 6
+checkOut 1172
+checkIn 2194 3854
+addTable 3704 3
+checkOut 4320
+checkIn 4087 829
+checkIn 4629 4518
+checkOut 4629
+joinFriend 4087 1975
+leaveDiningRoom 2727 2399
+addTable 4587 2
+checkOut 3328
+enterDiningRoom 2194 269
+joinFriend 397 3894
+enterDiningRoom 3448 3216
+checkIn 801 4866
+addTable 4648 7
+leaveDiningRoom 2015 519
+cleanNextRoom
+checkIn 2375 2254
+cleanNextRoom
+addTable 4751 3
+removeTable 63
+cleanNextRoom
+joinFriend 801 1309
+cleanNextRoom
+addTable 2935 6
+addTable 3248 5
+checkIn 4154 827
+leaveDiningRoom 3327 4880
+checkIn 3394 3120
+joinFriend 4154 324
+addTable 4866 5
+checkIn 731 1925
+joinTables 4338 4338
+removeTable 2935
+leaveDiningRoom 3984 4880
+addTable 2053 3
+addTable 2199 7
+joinFriend 731 1800
+reheatFood
+checkIn 224 2683
+cleanNextRoom
+leaveDiningRoom 2732 3249
+addTable 1654 5
+checkOut 2375
+checkIn 4086 548
+joinTables 2284 2199
+enterDiningRoom 3327 4648
+addTable 3701 3
+addTable 2263 3
+joinTables 1934 2263
+checkOut 3394
+checkIn 4732 4575
+joinTables 4691 3249
+checkIn 4652 563
+enterDiningRoom 2727 4438
+joinFriend 2777 3065
+enterDiningRoom 1751 519
+leaveDiningRoom 3762 4338
+enterDiningRoom 2015 1934
+cleanNextRoom
+joinTables 3399 1934
+removeTable 4748
+checkIn 2411 4569
+enterDiningRoom 224 4587
+leaveDiningRoom 2161 4691
+checkIn 1586 3155
+enterDiningRoom 1586 1499
+addTable 2765 7
+leaveDiningRoom 4788 3797
+checkIn 278 3912
+enterDiningRoom 4086 494
+removeTable 4269
+checkIn 1546 1585
+checkIn 4073 771
+checkIn 3291 3798
+addTable 452 8
+enterDiningRoom 4652 4880
+enterDiningRoom 3291 229
+joinFriend 4073 4755
+joinFriend 2379 3170
+reheatFood
+joinTables 519 1654
+checkIn 4396 1120
+joinFriend 4732 3793
+leaveDiningRoom 2947 4691
+checkIn 288 2484
+checkIn 2402 2785
+enterDiningRoom 3610 1465
+removeTable 3248
+leaveDiningRoom 2289 2399
+joinFriend 1546 114
+removeTable 4751
+joinFriend 2411 677
+leaveDiningRoom 2194 269
+addTable 4438 3
+enterDiningRoom 2161 4748
+checkIn 1832 4488
+checkOut 2402
+leaveDiningRoom 114 4880
+enterDiningRoom 4788 1648
+leaveDiningRoom 1586 1499
+enterDiningRoom 3984 4438
+checkIn 4293 4742
+enterDiningRoom 2732 3797
+enterDiningRoom 288 4587
+enterDiningRoom 3762 3399
+joinFriend 4396 1007
+checkOut 72
+checkIn 1806 2031
+checkIn 3694 4251
+enterDiningRoom 278 2399
+leaveDiningRoom 4757 4880
+cleanNextRoom
+enterDiningRoom 1806 1739
+checkIn 3354 2816
+joinFriend 3694 219
+checkOut 2947
+joinFriend 3354 2777
+joinTables 3399 3273
+reheatFood
+joinTables 4863 2765
+checkOut 114
+checkIn 2269 4529
+cleanNextRoom
+checkIn 3652 4170
+enterDiningRoom 1832 3399
+joinTables 452 4587
+removeTable 3704
+leaveDiningRoom 2257 4880
+enterDiningRoom 4293 3797
+checkIn 3731 4161
+checkOut 2289
+checkIn 207 3560
+enterDiningRoom 2194 1641
+leaveDiningRoom -14 494
+checkOut 4757
+cleanNextRoom
+leaveDiningRoom 801 4880
+enterDiningRoom 1586 2284
+addTable 2079 1
+addTable 1951 2
+enterDiningRoom 3731 3399
+joinFriend 2194 4760
+addTable 3361 4
+addTable 3639 1
+removeTable 4863
+checkIn 1069 3647
+checkIn 3107 4707
+checkIn 3832 2588
+enterDiningRoom 3832 4109
+joinFriend 2269 3894
+enterDiningRoom 4603 -27
+checkOut 2257
+checkIn 1510 4669
+checkIn 2815 1521
+checkIn 783 4894
+leaveDiningRoom 2472 1648
+removeTable 2079
+leaveDiningRoom 4750 1648
+enterDiningRoom 3652 4724
+addTable 531 1
+checkIn 2829 980
+checkIn 1344 4844
+checkIn 1962 4248
+leaveDiningRoom 2318 4338
+joinFriend 2815 3621
+checkIn 4103 4561
+checkOut 2318
+checkOut 4750
+reheatFood
+checkIn 4849 675
+checkIn 292 1654
+joinFriend 4103 3231
+cleanNextRoom
+joinFriend 4849 764
+checkIn 4759 4040
+addTable 4197 2
+checkIn 1345 2461
+joinFriend 2829 1800
+removeTable 1951
+checkIn -22 4044
+joinFriend 783 1344
+checkIn 4816 907
+checkOut -16
+enterDiningRoom 1345 4197
+checkIn 2951 1559
+checkIn 2736 4004
+addTable 272 1
+leaveDiningRoom 4867 4880
+enterDiningRoom 207 1499
+checkIn 1774 1928
+enterDiningRoom 4816 4724
+joinFriend 2472 1975
+addTable 3119 1
+checkIn 3121 1090
+checkOut 801
+enterDiningRoom 783 2053
+checkOut 1962
+joinFriend 4816 3010
+addTable 365 2
+cleanNextRoom
+joinFriend 1586 -10
+joinFriend 292 4166
+joinFriend 4759 2600
+enterDiningRoom 1510 3701
+leaveDiningRoom 3894 3693
+addTable 1556 8
+joinFriend 2736 960
+checkIn 1371 4836
+removeTable 272
+checkOut 3107
+joinTables 519 4197
+checkIn 1450 4413
+checkIn 4776 378
+leaveDiningRoom 2031 4338
+enterDiningRoom 3121 365
+leaveDiningRoom 390 3399
+joinFriend 4776 3621
+checkIn 1288 3988
+enterDiningRoom 1344 269
+reheatFood
+checkIn 3996 3976
+enterDiningRoom 3996 4109
+checkOut 2269
+reheatFood
+checkIn 1384 3789
+cleanNextRoom
+enterDiningRoom 1450 4866
+addTable 2877 3
+removeTable 1556
+enterDiningRoom 2031 3399
+checkOut 1069
+addTable 4338 3
+cleanNextRoom
+joinTables 1739 229
+reheatFood
+joinTables 1499 4338
+cleanNextRoom
+checkIn 4703 3831
+checkIn 355 261
+checkIn 10 1773
+checkOut 10
+checkOut 1288
+addTable 4558 -4
+joinFriend 1384 1309
+joinFriend 4703 1371
+checkIn 728 503
+leaveDiningRoom 677 4438
+enterDiningRoom 355 269
+leaveDiningRoom 292 4880
+addTable 4273 4
+checkIn 3762 917
+checkIn 4299 818
+checkIn 45 4656
+addTable -28 6
+checkIn -10 2385
+enterDiningRoom 1774 4866
+checkIn 1384 469
+leaveDiningRoom 4562 3797
+checkIn 2760 3043
+checkIn 4939 4778
+enterDiningRoom 390 3797
+checkIn 517 -26
+joinTables 1648 3797
+leaveDiningRoom 4652 4880
+cleanNextRoom
+enterDiningRoom 4939 4793
+checkIn 2291 2432
+reheatFood
+checkIn 710 2911
+joinFriend 710 4776
+checkIn 1024 1949
+addTable 181 2
+cleanNextRoom
+cleanNextRoom
+removeTable 531
+checkOut 2732
+cleanNextRoom
+removeTable 3361
+checkOut 4299
+leaveDiningRoom 1910 4880
+enterDiningRoom 1024 2053
+checkOut 2291
+checkIn 548 1930
+joinTables 3399 2284
+enterDiningRoom 728 1648
+joinTables 4866 2877
+cleanNextRoom
+enterDiningRoom 45 519
+enterDiningRoom 548 181
+enterDiningRoom 292 365
+removeTable 3639
+joinFriend 677 1344
+checkIn 4414 100
+joinFriend 4867 1460
+checkIn 4529 3255
+leaveDiningRoom 3115 1641
+joinFriend 4529 1194
+enterDiningRoom 3924 4691
+leaveDiningRoom 1546 4880
+enterDiningRoom 4652 4793
+removeTable 3119
+joinFriend 2760 3367
+reheatFood
+checkOut 4414
+checkIn 443 2721
+joinFriend 4562 1836
+joinFriend 1910 1965
+joinTables 4793 3701
+leaveDiningRoom 224 452
+leaveDiningRoom 3731 3399
+enterDiningRoom 1546 4109
+addTable 4277 8
+joinFriend 3115 1975
+checkIn 277 300
+enterDiningRoom 443 2053
+checkIn 230 1534
+cleanNextRoom
+checkIn 4213 351
+checkIn 337 2481
+checkIn 3934 673
+checkIn 2130 2519
+cleanNextRoom
+enterDiningRoom 3934 1739
+checkIn -13 2648
+joinFriend 230 4086
+checkIn 909 4223
+joinTables 1641 1648
+addTable 648 2
+checkIn 4473 2641
+checkIn 3476 4584
+reheatFood
+checkIn 917 1537
+checkIn 699 4333
+reheatFood
+removeTable 4273
+joinFriend 337 512
+addTable 4724 7
+enterDiningRoom 2130 4880
+enterDiningRoom 4213 1641
+addTable 4536 -2
+reheatFood
+enterDiningRoom 548 4438
+checkIn 4720 1797
+cleanNextRoom
+cleanNextRoom
+addTable 2227 6
+reheatFood
+cleanNextRoom
+checkIn 3791 1318
+leaveDiningRoom 390 1641
+checkIn 1246 421
+enterDiningRoom 4341 -4
+joinFriend 4473 3784
+joinFriend 3791 4073
+checkIn 1574 710
+checkIn 1382 2
+cleanNextRoom
+joinFriend 1382 207
+leaveDiningRoom 3790 1641
+enterDiningRoom 4720 1739
+reheatFood
+enterDiningRoom 909 4277
+checkIn 457 2748
+cleanNextRoom
+checkOut 457
+joinFriend 224 4939
+leaveDiningRoom 4199 1641
+enterDiningRoom 3790 181
+leaveDiningRoom 1371 4244
+checkIn 4476 426
+joinFriend -24 2336
+enterDiningRoom 4476 4438
+removeTable 648
+checkIn 379 3552
+joinTables 1641 -29
+addTable 1913 6
+checkIn 2715 3559
+addTable 109 4
+joinFriend 1246 1324
+leaveDiningRoom 3526 4748
+leaveDiningRoom 1836 4880
+addTable 1691 7
+checkIn 4791 681
+reheatFood
+checkOut 1574
+reheatFood
+checkIn 241 3444
+checkOut 3731
+checkIn 1630 3085
+checkIn 2137 1558
+leaveDiningRoom 3934 1739
+checkIn 645 39
+addTable 1853 5
+joinTables 2399 4866
+leaveDiningRoom 736 4691
+checkOut 736
+leaveDiningRoom 446 4880
+removeTable 1853
+addTable 4245 8
+removeTable 1913
+enterDiningRoom 2137 2399
+addTable 3610 3
+checkIn 1513 654
+reheatFood
+checkIn 4685 3425
+cleanNextRoom
+checkIn 2182 655
+removeTable 3610
+leaveDiningRoom 2745 1641
+enterDiningRoom 277 1641
+addTable 4714 4
+addTable 4370 4
+checkIn 1037 3535
+leaveDiningRoom 2161 4748
+joinTables 4724 -19
+joinFriend 379 493
+checkIn 4330 2386
+checkIn 25 3360
+checkIn 4987 1558
+checkIn 1424 2301
+enterDiningRoom 3934 494
+enterDiningRoom 1037 109
+reheatFood
+cleanNextRoom
+checkIn 2652 4794
+enterDiningRoom 2745 1499
+enterDiningRoom -16 4245
+cleanNextRoom
+leaveDiningRoom 909 4277
+enterDiningRoom 2951 -3
+removeTable 4370
+checkIn 4926 3777
+enterDiningRoom 1630 519
+leaveDiningRoom 219 4691
+removeTable 4277
+removeTable 4245
+joinFriend 645 3874
+joinFriend 390 3832
+checkIn 1644 3948
+addTable 1890 7
+enterDiningRoom 2652 269
+removeTable 2227
+leaveDiningRoom 2101 1641
+enterDiningRoom 2182 4748
+checkIn 3133 3467
+leaveDiningRoom 2336 4691
+enterDiningRoom 2161 4691
+joinTables 4691 4648
+joinFriend 3133 2161
+checkIn 1678 2774
+leaveDiningRoom 4753 3961
+checkIn 4444 1808
+addTable 3171 2
+addTable 4515 7
+addTable 4655 3
+enterDiningRoom 1424 269
+leaveDiningRoom 3784 4880
+checkOut 1644
+addTable 723 4
+addTable 602 3
+addTable 5 2
+checkIn 3120 4480
+addTable 4619 1
+joinTables 3399 3961
+enterDiningRoom -3 4655
+enterDiningRoom 4444 5
+checkIn 2815 3646
+checkIn 2023 -18
+leaveDiningRoom 364 1641
+checkIn 2751 1182
+removeTable 4655
+checkOut 3526
+removeTable 4619
+joinTables 4109 3399
+enterDiningRoom 3120 4109
+addTable 378 6
+joinFriend 4685 4103
+leaveDiningRoom 4720 1739
+checkIn 1608 3312
+cleanNextRoom
+checkIn 258 265
+checkIn 3360 3750
+checkIn 1023 1134
+removeTable 4515
+enterDiningRoom 4199 4438
+cleanNextRoom
+reheatFood
+leaveDiningRoom 692 2399
+addTable 1491 1
+checkIn 4975 3059
+enterDiningRoom 364 519
+checkIn 1794 994
+addTable 1807 8
+cleanNextRoom
+joinFriend 446 4776
+addTable 1695 5
+checkOut 4791
+checkIn 2572 3860
+joinFriend 3360 1510
+checkIn 653 1630
+checkIn 599 2806
+checkIn 1883 1658
+checkIn 1405 496
+checkIn 440 3158
+removeTable 1491
+joinFriend 2751 1774
+enterDiningRoom 25 519
+joinTables 4691 3171
+enterDiningRoom 4720 452
+leaveDiningRoom 1382 1499
+addTable 1494 2
+joinFriend 3476 4199
+joinTables 1695 4691
+checkIn 2122 2195
+checkIn 3158 -19
+checkIn 3201 4582
+joinFriend 1678 2425
+cleanNextRoom
+checkIn 394 3489
+reheatFood
+checkIn 4112 1617
+leaveDiningRoom 2411 4438
+checkIn 2743 4733
+enterDiningRoom 1883 4880
+enterDiningRoom 909 1890
+enterDiningRoom 2336 1641
+leaveDiningRoom 2203 -6
+removeTable 365
+joinFriend 440 4103
+checkIn 4580 2487
+enterDiningRoom 4112 723
+checkIn 638 3435
+enterDiningRoom 4975 269
+checkIn 1837 151
+cleanNextRoom
+checkIn 2274 148
+addTable 2668 2
+leaveDiningRoom 1510 4793
+joinFriend 4330 76
+enterDiningRoom 1837 452
+addTable 197 1
+checkIn 4305 1382
+leaveDiningRoom 2323 1641
+leaveDiningRoom 503 1641
+joinTables 365 4724
+joinFriend 3784 3924
+checkIn 3375 379
+enterDiningRoom 1836 5
+addTable 2060 3
+enterDiningRoom 4926 723
+joinFriend 1023 278
+joinFriend 1608 3010
+checkIn 3185 2342
+enterDiningRoom 4753 1695
+joinFriend 241 4939
+checkIn 4092 427
+checkIn 1474 1794
+checkIn 776 2362
+leaveDiningRoom 4461 4880
+enterDiningRoom 2715 519
+cleanNextRoom
+addTable 862 8
+joinFriend 3185 1832
+cleanNextRoom
+checkIn 4838 1700
+checkIn 1917 2016
+checkIn 849 3391
+leaveDiningRoom 2777 2399
+enterDiningRoom 2101 1739
+checkIn 3262 3387
+cleanNextRoom
+leaveDiningRoom 2203 1641
+enterDiningRoom 2203 519
+enterDiningRoom 4580 723
+addTable 104 7
+checkIn 3517 2156
+enterDiningRoom 1917 2668
+checkIn 738 1467
+checkIn 981 789
+checkIn 3902 4470
+enterDiningRoom 2572 1739
+removeTable 519
+checkOut 219
+enterDiningRoom 3262 519
+checkIn 468 3372
+enterDiningRoom 4092 602
+checkIn 3665 1145
+joinTables 1890 378
+joinFriend 1405 2600
+checkIn 384 1202
+joinFriend 981 4759
+cleanNextRoom
+enterDiningRoom 1794 4748
+removeTable 4714
+enterDiningRoom 2122 1499
+leaveDiningRoom 4947 0
+leaveDiningRoom 1213 4880
+enterDiningRoom 3902 197
+leaveDiningRoom 1159 2399
+checkIn 1517 4155
+enterDiningRoom 776 1641
+removeTable -22
+checkIn 3502 2352
+checkIn 1488 493
+enterDiningRoom 638 2668
+removeTable 2060
+addTable 470 2
+enterDiningRoom 468 723
+checkIn 1107 -8
+joinFriend 653 3247
+joinFriend 3201 203
+leaveDiningRoom 783 2053
+enterDiningRoom 738 2399
+reheatFood
+checkIn 1367 846
+addTable 1499 8
+checkIn 1972 3807
+checkIn 1133 1827
+removeTable 3598
+checkIn 4975 550
+addTable 1707 6
+checkIn 4205 2925
+checkIn 3068 1742
+checkIn 3516 4388
+checkIn 1865 2197
+checkIn 3263 1640
+checkIn 4083 3557
+enterDiningRoom 3516 365
+joinTables 862 3707
+leaveDiningRoom 2130 4880
+checkIn 4245 2549
+addTable 1716 5
+enterDiningRoom 4245 1890
+cleanNextRoom
+joinFriend 1865 4154
+enterDiningRoom 1513 2399
+checkIn 593 4425
+enterDiningRoom 4305 1807
+cleanNextRoom
+checkIn 4114 3023
+checkOut 599
+joinFriend 2411 489
+enterDiningRoom 2777 1707
+cleanNextRoom
+enterDiningRoom 503 2053
+checkIn 1061 4711
+checkOut 3516
+removeTable 470
+leaveDiningRoom 1794 4748
+addTable 1792 1
+leaveDiningRoom 776 1641
+removeTable 1716
+checkOut 2130
+joinFriend 2743 556
+cleanNextRoom
+checkIn 1941 4233
+enterDiningRoom 1367 494
+joinFriend 1159 4305
+enterDiningRoom 3517 1890
+enterDiningRoom 394 109
+joinFriend 1972 2829
+addTable 1134 4
+joinTables 4438 602
+enterDiningRoom 2323 494
+leaveDiningRoom 3652 365
+joinFriend 1213 1460
+leaveDiningRoom 960 1695
+addTable -4 2
+addTable 494 7
+cleanNextRoom
+joinTables 1691 2668
+reheatFood
+cleanNextRoom
+joinTables 5 197
+checkIn 953 4375
+cleanNextRoom
+addTable 4794 7
+cleanNextRoom
+addTable 4973 3
+addTable 1739 5
+enterDiningRoom 4083 4793
+enterDiningRoom 3502 1890
+checkOut 1941
+enterDiningRoom 1382 1707
+checkIn 813 4097
+leaveDiningRoom 1866 1695
+checkOut 3375
+joinTables 519 4748
+enterDiningRoom 1488 365
+addTable 249 1
+enterDiningRoom 3665 1807
+addTable 2388 1
+checkIn 1862 1881
+addTable 4521 1
+addTable 2221 -16
+enterDiningRoom 2122 519
+joinFriend 4205 2101
+joinFriend -11 2203
+checkIn 3617 4165
+checkIn 3789 4209
+addTable 1736 2
+enterDiningRoom 953 104
+joinFriend 593 1324
+leaveDiningRoom 1800 4880
+addTable 1705 4
+addTable 3279 6
+addTable 419 7
+leaveDiningRoom 489 2399
+enterDiningRoom 4461 862
+checkIn 1281 559
+checkIn 3653 517
+joinFriend 1474 2986
+cleanNextRoom
+addTable 1928 2
+leaveDiningRoom 2951 4880
+checkIn 4140 2475
+checkIn 2598 2271
+addTable 1723 2
+joinFriend 258 1910
+checkIn 3562 1038
+checkIn 1326 1770
+leaveDiningRoom 1910 519
+removeTable 1705
+checkOut 3263
+joinFriend 610 1866
+joinTables 4793 4973
+joinFriend 849 1917
+checkIn 3719 3933
+enterDiningRoom 3789 104
+enterDiningRoom 4103 1494
+leaveDiningRoom 503 2053
+checkIn 3217 1257
+joinFriend 960 731
+enterDiningRoom 3276 3279
+cleanNextRoom
+checkIn 2784 3889
+leaveDiningRoom 1546 4109
+cleanNextRoom
+checkOut 2784
+enterDiningRoom 783 4109
+checkIn 778 953
+checkIn 4530 1672
+enterDiningRoom 4838 519
+checkIn 2492 1316
+checkIn 1938 4170
+enterDiningRoom 3562 1695
+cleanNextRoom
+removeTable 1723
+leaveDiningRoom 1883 4880
+enterDiningRoom 3719 1890
+checkIn 3271 3239
+removeTable 1928
+leaveDiningRoom -29 4794
+enterDiningRoom 813 2053
+leaveDiningRoom 4087 4880
+checkOut 2492
+checkIn 141 1251
+enterDiningRoom 917 494
+enterDiningRoom 1862 1707
+enterDiningRoom 776 1134
+addTable 1660 1
+checkIn 3717 383
+cleanNextRoom
+checkIn 3061 1282
+checkIn 1888 4207
+addTable 3279 4
+checkIn 1909 4191
+checkIn 2718 3685
+joinFriend 1061 440
+enterDiningRoom 3217 452
+cleanNextRoom
+enterDiningRoom 1517 1660
+joinFriend 1510 710
+checkIn 3047 4666
+checkIn 4591 3231
+addTable 2483 6
+addTable 3610 4
+joinFriend 3652 3984
+joinFriend 4140 4473
+checkIn 175 749
+cleanNextRoom
+addTable 1878 3
+removeTable 249
+enterDiningRoom 4083 1739
+joinFriend 2598 3940
+enterDiningRoom 3271 1134
+addTable 2511 8
+enterDiningRoom 1281 4109
+checkIn 4519 894
+cleanNextRoom
+enterDiningRoom 981 1641
+addTable 2839 2
+joinFriend 3717 2870
+joinFriend 4685 -10
+joinFriend 4330 1133
+checkIn 4676 4400
+leaveDiningRoom 1975 4880
+removeTable 4794
+enterDiningRoom 1326 1695
+leaveDiningRoom 2336 1641
+checkOut 1866
+enterDiningRoom 4676 1695
+cleanNextRoom
+joinFriend 778 731
+checkIn 3029 1898
+joinTables 2483 1739
+reheatFood
+checkIn 3915 2279
+enterDiningRoom 2274 2399
+removeTable 419
+checkIn 3935 2664
+enterDiningRoom 1975 1707
+checkIn 1538 1995
+checkIn 3926 328
+joinFriend 503 657
+checkOut 1133
+cleanNextRoom
+cleanNextRoom
+checkIn 2129 250
+joinFriend 3653 2110
+enterDiningRoom 384 1691
+checkIn 4786 1833
+enterDiningRoom 4087 2839
+checkIn 1311 4354
+enterDiningRoom 2718 2483
+cleanNextRoom
+enterDiningRoom 2203 1695
+reheatFood
+removeTable 1494
+removeTable 1736
+checkIn 2438 4843
+checkIn 2843 600
+addTable 1042 5
+checkIn 260 735
+leaveDiningRoom 3144 4880
+checkOut 1800
+checkIn 3673 1370
+addTable 3524 3
+checkIn 1470 4422
+addTable 4902 6
+checkIn 1442 2882
+enterDiningRoom 175 1707
+checkIn 4818 1013
+joinFriend 3915 2777
+joinFriend 1732 3422
+checkIn 4 3915
+addTable 1873 1
+reheatFood
+joinFriend 1442 4092
+leaveDiningRoom 4849 4880
+joinTables -19 -19
+leaveDiningRoom 1442 4438
+enterDiningRoom 1794 452
+reheatFood
+checkIn 2325 1976
+removeTable 4521
+leaveDiningRoom 2122 519
+cleanNextRoom
+reheatFood
+checkIn 2878 4300
+checkIn 4330 2073
+cleanNextRoom
+enterDiningRoom 3144 862
+checkIn 3657 2965
+leaveDiningRoom 1326 1695
+enterDiningRoom 3029 1807
+enterDiningRoom 2878 1691
+removeTable 1792
+checkIn 2891 3366
+addTable 4001 2
+checkIn 77 1138
+addTable 2859 8
+leaveDiningRoom 2425 4880
+leaveDiningRoom 699 1499
+enterDiningRoom 3657 1499
+joinFriend 4530 4603
+addTable 4296 4
+addTable 1312 7
+joinFriend 2122 3791
+enterDiningRoom 141 4880
+checkIn 2888 1331
+reheatFood
+leaveDiningRoom 1163 1641
+cleanNextRoom
+enterDiningRoom 2888 109
+checkIn 3595 2645
+cleanNextRoom
+reheatFood
+removeTable 1312
+addTable 1049 6
+leaveDiningRoom 2379 1641
+checkIn 2930 2004
+joinTables 1890 519
+checkOut 1883
+cleanNextRoom
+joinFriend 2438 593
+checkIn 1990 1837
+joinTables 4296 862
+enterDiningRoom 1990 2839
+joinFriend 4580 2379
+checkIn 2200 1718
+joinTables 4001 1042
+enterDiningRoom 2891 1134
+joinFriend 260 1510
+enterDiningRoom 2336 1873
+enterDiningRoom 3068 1049
+enterDiningRoom 4849 4296
+reheatFood
+joinFriend 2325 2878
+joinTables 4296 452
+cleanNextRoom
+cleanNextRoom
+enterDiningRoom 4114 3524
+joinTables 1873 109
+enterDiningRoom 2200 4438
+enterDiningRoom 1326 1499
+addTable 121 8
+checkIn 3386 2737
+addTable 1527 3
+leaveDiningRoom 2122 1695
+checkIn 2431 3534
+joinFriend 2815 2815
+enterDiningRoom 3934 2558
+cleanNextRoom
+checkIn 4566 3455
+checkIn 864 2413
+checkIn 2515 2022
+addTable 2006 2
+reheatFood
+checkOut 4517
+joinFriend 864 3614
+checkIn 425 932
+enterDiningRoom 2379 121
+leaveDiningRoom 2101 2483
+enterDiningRoom 489 4109
+enterDiningRoom 3061 4793
+joinFriend 699 3360
+checkIn 2893 3086
+joinFriend 2431 3291
+joinFriend 3386 4947
+addTable 4958 3
+leaveDiningRoom 3790 181
+checkIn 312 4321
+checkIn 1290 134
+checkIn 3049 2023
+checkIn 1130 2895
+checkIn 930 4726
+leaveDiningRoom 2706 1695
+enterDiningRoom 1909 3524
+joinFriend 425 1972
+cleanNextRoom
+checkIn 2824 1048
+cleanNextRoom
+enterDiningRoom 930 181
+enterDiningRoom 2129 1641
+cleanNextRoom
+leaveDiningRoom 1405 1499
+cleanNextRoom
+checkIn 1614 1208
+checkOut 3595
+checkIn 3321 589
+checkOut 2706
+addTable 3398 7
+enterDiningRoom 1888 4109
+checkOut 3321
+enterDiningRoom 2951 1873
+leaveDiningRoom 3673 2759
+checkIn 3212 4370
+leaveDiningRoom 3422 1695
+joinFriend 1326 2727
+checkIn 2043 3556
+checkIn 4459 3587
+joinFriend 1538 25
+joinFriend 77 3115
+checkIn 2780 1463
+enterDiningRoom 4818 121
+checkIn 4657 3856
+checkOut 1470
+leaveDiningRoom 3291 2483
+leaveDiningRoom 1775 4880
+enterDiningRoom 3935 1691
+enterDiningRoom 1163 3524
+checkIn 2720 4547
+joinFriend 3049 1007
+cleanNextRoom
+addTable 1332 4
+removeTable 2859
+leaveDiningRoom 2431 2483
+addTable 2839 1
+checkIn 3641 978
+leaveDiningRoom 277 1641
+removeTable 2399
+checkOut 2122
+checkIn 1680 4680
+addTable 3187 7
+addTable 4460 3
+joinFriend 4459 4562
+reheatFood
+checkIn 193 2467
+checkIn 287 4363
+enterDiningRoom 1130 1878
+checkIn 1703 1264
+enterDiningRoom 3641 1807
+enterDiningRoom 1290 3610
+addTable 2474 1
+addTable 3158 4
+addTable 359 7
+checkOut 2893
+enterDiningRoom 3422 104
+addTable 347 -18
+cleanNextRoom
+enterDiningRoom 4657 4902
+joinFriend 2431 2727
+leaveDiningRoom 2161 1695
+checkIn 3678 4501
+enterDiningRoom 692 4438
+checkIn 312 1886
+enterDiningRoom 3678 359
+joinTables 1695 2388
+removeTable 3398
+checkIn 4922 1951
+removeTable 3158
+joinFriend 1614 4205
+addTable -30 3
+checkIn 4192 4708
+joinFriend 3673 379
+checkIn 734 607
+checkIn 4581 2374
+checkIn 3058 608
+checkIn 261 4525
+leaveDiningRoom 3386 1641
+checkOut 1910
+checkOut 3386
+checkOut 4519
+addTable 3399 2
+checkIn 4105 3650
+enterDiningRoom 4786 4958
+checkIn 2594 2512
+addTable 1281 7
+leaveDiningRoom 1975 1707
+leaveDiningRoom 3926 4001
+leaveDiningRoom 260 1695
+enterDiningRoom 2101 4109
+addTable 3165 5
+joinFriend 1452 1975
+checkIn 4774 534
+checkOut 4566
+checkIn 901 3550
+checkIn -7 2258
+checkOut 2515
+addTable 3235 3
+removeTable 3187
+joinTables 1660 1499
+addTable 4411 6
+joinFriend 3047 3874
+checkIn 129 55
+cleanNextRoom
+enterDiningRoom 3212 1890
+cleanNextRoom
+enterDiningRoom 4105 1878
+enterDiningRoom 3790 1660
+cleanNextRoom
+enterDiningRoom 2720 4880
+addTable 1422 1
+checkOut 1775
+checkIn 4924 4696
+checkIn 4846 1986
+enterDiningRoom 4922 1527
+leaveDiningRoom 2829 4880
+checkIn 2648 4812
+reheatFood
+checkIn 949 3591
+reheatFood
+leaveDiningRoom 764 4880
+checkIn 2093 214
+leaveDiningRoom 4657 4902
+joinFriend 2110 3617
+leaveDiningRoom 2600 1660
+removeTable 4902
+joinFriend 1442 4562
+addTable 2185 2
+leaveDiningRoom 1538 1890
+joinFriend 2843 45
+checkOut 2093
+enterDiningRoom 1975 3610
+checkOut 2043
+joinTables 1641 1332
+leaveDiningRoom 1367 494
+enterDiningRoom 1405 1527
+checkIn 2628 1621
+enterDiningRoom 1865 3348
+leaveDiningRoom 224 4793
+joinTables 1641 4460
+addTable 1548 4
+enterDiningRoom 4 4411
+enterDiningRoom 4818 -30
+checkIn 2341 417
+enterDiningRoom 193 1695
+enterDiningRoom 287 1527
+leaveDiningRoom 778 4880
+joinFriend 1680 4505
+joinFriend -21 2745
+checkIn 4671 4854
+removeTable 1281
+joinFriend 2648 1324
+cleanNextRoom
+checkIn 3318 2963
+checkIn 3923 3108
+checkIn 3735 690
+checkIn 4477 589
+checkIn 1522 4477
+enterDiningRoom 2425 2483
+checkIn 1986 2469
+checkIn 2639 4685
+checkIn 650 4604
+checkIn 2322 172
+checkIn 4933 2075
+joinTables 1422 4958
+reheatFood
+joinFriend 2341 3832
+checkIn 4681 4905
+checkIn 4068 2359
+leaveDiningRoom 230 494
+leaveDiningRoom 1037 1873
+addTable 2569 3
+leaveDiningRoom 4073 1695
+addTable 3853 1
+checkIn 281 245
+checkIn 2527 1502
+joinFriend 2829 3056
+joinTables 5 -18
+leaveDiningRoom 3996 4109
+enterDiningRoom 312 1548
+checkIn 251 3350
+enterDiningRoom 4468 2483
+checkIn 24 2465
+addTable 648 5
+checkIn 4171 2376
+leaveDiningRoom 141 4880
+removeTable 2185
+checkIn 1589 3916
+joinFriend 3318 4753
+joinFriend 1703 2085
+removeTable 3279
+enterDiningRoom 1589 2399
+checkIn 2776 1233
+enterDiningRoom 2594 1873
+joinTables 1707 494
+addTable 4224 8
+enterDiningRoom 3923 4880
+leaveDiningRoom 1965 1890
+joinTables 1707 2628
+addTable 2888 4
+checkOut 1522
+joinTables 1890 3541
+checkIn 2686 2518
+cleanNextRoom
+enterDiningRoom 764 1707
+leaveDiningRoom 2323 1707
+checkIn 3455 2441
+checkIn 4859 703
+checkIn 1565 2935
+removeTable 2888
+joinFriend 901 1309
+addTable 4806 2
+checkOut -16
+checkIn 672 4456
+addTable 3053 1
+leaveDiningRoom 1460 4880
+checkIn 866 4377
+joinTables 3053 3610
+checkIn 82 988
+enterDiningRoom 281 4001
+leaveDiningRoom 3641 1807
+addTable 686 4
+removeTable 3399
+checkIn 90 2610
+leaveDiningRoom 4530 4880
+enterDiningRoom 4477 686
+joinFriend 4933 3434
+enterDiningRoom 1538 4224
+checkIn 2133 3411
+joinTables 3235 1527
+addTable 4943 2
+joinTables 3165 1049
+enterDiningRoom 3291 4224
+enterDiningRoom 734 2483
+checkIn 2245 1421
+joinFriend 24 3915
+leaveDiningRoom 1972 4880
+joinFriend 1546 4086
+leaveDiningRoom 317 1807
+enterDiningRoom 82 3165
+addTable 4298 2
+checkIn 1781 3254
+enterDiningRoom 2527 3235
+cleanNextRoom
+addTable 2778 1
+reheatFood
+checkIn 4677 2343
+addTable 2442 3
+cleanNextRoom
+checkIn 1428 2506
+cleanNextRoom
+checkOut 4677
+checkIn 3544 4594
+removeTable 2474
+enterDiningRoom 1460 4296
+checkIn 2365 1813
+enterDiningRoom 2323 3853
+checkIn 3687 2172
+checkIn 1934 4861
+addTable 1754 1
+joinFriend 1311 4477
+addTable 3811 8
+checkIn 3383 4435
+checkIn 406 3059
+enterDiningRoom 4657 121
+joinFriend 230 3719
+enterDiningRoom 4924 1641
+checkIn 23 3181
+checkIn 2827 283
+cleanNextRoom
+enterDiningRoom 3940 2399
+cleanNextRoom
+removeTable 2778
+checkIn 378 2916
+joinFriend 4073 305
+cleanNextRoom
+checkIn 3192 4603
+addTable 2973 3
+addTable 1313 6
+checkIn 2555 3033
+enterDiningRoom 1037 4224
+checkOut 4581
+checkIn 1936 1769
+enterDiningRoom 1781 1890
+enterDiningRoom 3926 4296
+checkIn 759 1949
+addTable 3436 6
+checkIn 3963 2284
+enterDiningRoom 2639 4109
+checkIn 180 1849
+leaveDiningRoom 4072 1890
+checkIn 531 4216
+joinTables 648 104
+joinFriend 2776 364
+checkIn 448 2072
+joinTables 4438 1707
+cleanNextRoom
+joinTables 1691 2399
+checkIn 3019 3323
+addTable 3745 8
+leaveDiningRoom 3621 1695
+cleanNextRoom
+checkIn 2282 793
+checkOut 261
+enterDiningRoom 2930 686
+checkIn 105 71
+enterDiningRoom 1972 4411
+checkOut 141
+checkOut 90
+joinFriend 1517 680
+leaveDiningRoom 3694 1695
+enterDiningRoom 3963 1878
+checkOut 3996
+cleanNextRoom
+removeTable 2511
+joinTables 269 269
+leaveDiningRoom 1460 4296
+leaveDiningRoom 4632 365
+enterDiningRoom 1367 1641
+cleanNextRoom
+addTable 4758 2
+enterDiningRoom 2365 1691
+leaveDiningRoom 4933 4109
+checkIn 2612 4034
+joinFriend 3192 4657
+checkIn 3881 218
+enterDiningRoom 1965 365
+enterDiningRoom 1936 1422
+leaveDiningRoom 4468 1695
+cleanNextRoom
+checkIn 569 279
+checkOut 2827
+checkIn 4793 3692
+checkIn 2019 424
+enterDiningRoom 2600 1548
+enterDiningRoom 1986 3053
+checkOut 2834
+enterDiningRoom 3694 1691
+enterDiningRoom -7 1695
+enterDiningRoom 2452 1807
+checkIn 4335 2673
+enterDiningRoom 4681 4224
+joinFriend 2686 2341
+removeTable 2442
+enterDiningRoom 3058 359
+addTable 3857 3
+addTable 4201 3
+enterDiningRoom 866 1641
+reheatFood
+checkIn 3654 1265
+addTable 879 6
+removeTable 4201
+addTable 2183 6
+cleanNextRoom
+checkIn 3586 4754
+reheatFood
+checkIn 1928 596
+joinTables 2569 4109
+checkIn 2689 2716
+leaveDiningRoom 3984 4438
+cleanNextRoom
+joinTables 3053 181
+joinFriend 3383 692
+leaveDiningRoom 1586 2569
+joinFriend 1928 1917
+checkIn 4767 2196
+enterDiningRoom 260 2483
+joinFriend 3881 1450
+leaveDiningRoom 3935 1691
+addTable 4001 7
+enterDiningRoom 2019 1691
+checkIn 3725 17
+checkIn 1719 389
+checkIn 3891 4451
+enterDiningRoom 3735 1691
+reheatFood
+leaveDiningRoom 287 3235
+leaveDiningRoom 1806 2483
+cleanNextRoom
+enterDiningRoom 4171 1754
+checkOut 4530
+cleanNextRoom
+enterDiningRoom 4767 3811
+checkIn 3810 3760
+addTable 3941 6
+checkIn 2562 757
+checkIn 2906 4944
+checkIn 4630 2345
+joinTables 2183 359
+checkIn 2944 2281
+joinTables 1313 1695
+checkIn 3071 2105
+enterDiningRoom 2322 879
+leaveDiningRoom 3217 4296
+enterDiningRoom 4793 1313
+leaveDiningRoom 281 4001
+checkIn 99 1763
+addTable 663 3
+joinFriend 778 2322
+checkIn 1814 2312
+joinFriend 1460 2935
+leaveDiningRoom 3924 4880
+addTable 509 2
+enterDiningRoom 448 1548
+checkIn 283 1407
+addTable 541 1
+checkIn 974 3062
+addTable 1262 5
+enterDiningRoom 1565 1641
+reheatFood
+checkIn 2679 3730
+addTable 3810 7
+checkIn 693 2487
+checkIn 4624 605
+checkIn 1045 4087
+addTable 4876 1
+checkIn 1626 4108
+checkOut 4671
+removeTable 2006
+checkOut 3694
+addTable 3413 5
+enterDiningRoom 2679 1691
+checkIn 841 315
+leaveDiningRoom 2751 1691
+checkIn 2444 4713
+checkIn 4649 1999
+addTable 2555 6
+checkIn 3214 443
+removeTable 4806
+checkIn 4156 3415
+enterDiningRoom 180 3857
+joinFriend 1586 556
+joinTables 3810 4296
+leaveDiningRoom 1424 269
+joinTables 269 3857
+checkIn 33 3290
+checkOut 3735
+cleanNextRoom
+checkOut 224
+checkIn 1983 2137
+checkOut 2628
+checkOut 2245
+checkIn 864 1410
+leaveDiningRoom 3120 2569
+leaveDiningRoom 4922 3235
+addTable 2379 5
+enterDiningRoom 4630 3811
+checkIn 2506 2652
+checkIn 837 1820
+joinTables 2379 1754
+checkIn 948 2220
+checkOut 531
+joinTables 1548 2379
+checkIn 4393 3180
+enterDiningRoom 3984 2483
+checkIn 43 3270
+joinFriend 1814 1213
+checkIn 4677 1203
+enterDiningRoom 1626 4943
+enterDiningRoom 3214 121
+checkIn 29 3596
+enterDiningRoom 3544 3941
+checkIn 428 3848
+joinTables 2183 3413
+joinTables 663 3053
+checkIn 4401 4025
+addTable 2519 3
+enterDiningRoom 4591 4758
+checkIn 3919 4059
+checkOut 1719
+checkIn 3810 1391
+checkOut 841
+enterDiningRoom 3935 4943
+addTable 3606 6
+checkIn 4647 4644
+addTable 4913 4
+checkIn 3401 774
+enterDiningRoom 1246 3606
+leaveDiningRoom 1538 4224
+checkIn 2638 595
+removeTable 2839
+cleanNextRoom
+joinTables 4793 1878
+checkIn 4204 -20
+checkIn 959 2579
+addTable 4287 4
+checkIn 4352 556
+checkIn 494 901
+enterDiningRoom -22 1807
+enterDiningRoom 4647 2483
+checkIn 3268 567
+checkIn 2092 2000
+leaveDiningRoom 1405 3235
+joinTables 3606 3745
+addTable 4850 8
+checkOut 3810
+addTable 3442 4
+checkIn 2071 441
+joinFriend 378 1384
+addTable 3817 5
+joinFriend 1934 2715
+joinFriend 4401 384
+addTable 3918 3
+addTable 221 4
+addTable 2103 4
+enterDiningRoom 1428 121
+cleanNextRoom
+cleanNextRoom
+addTable 457 2
+checkIn 1654 3745
+checkOut 4156
+addTable 1989 2
+enterDiningRoom 2689 1134
+removeTable 4287
+cleanNextRoom
+addTable 491 4
+checkIn 4116 -9
+enterDiningRoom 277 221
+checkIn 2284 1988
+checkIn 2535 1027
+enterDiningRoom 2906 686
+joinFriend 3687 2101
+checkIn 1425 2022
+enterDiningRoom -30 3817
+leaveDiningRoom 4012 1660
+reheatFood
+enterDiningRoom 2612 1313
+checkIn 2299 4089
+enterDiningRoom 3120 2569
+checkIn 381 4745
+checkOut 381
+enterDiningRoom 650 509
+checkIn 2007 3274
+joinFriend -16 1751
+joinFriend 2824 3923
+cleanNextRoom
+cleanNextRoom
+enterDiningRoom 287 4880
+checkOut 2562
+addTable 1651 5
+addTable 686 5
+checkIn 762 2160
+leaveDiningRoom 1290 663
+cleanNextRoom
+checkOut -1
+leaveDiningRoom 4767 3811
+checkIn 1908 598
+addTable 4380 7
+enterDiningRoom 4468 2103
+enterDiningRoom 3401 1641
+checkIn 3765 2486
+addTable 1443 2
+checkIn 3833 863
+enterDiningRoom 2133 2483
+leaveDiningRoom 953 648
+enterDiningRoom 33 3524
+leaveDiningRoom 2274 1691
+checkOut 948
+checkOut 3071
+addTable 3380 1
+checkIn 2462 4567
+checkOut 1538
+joinFriend 2071 1159
+checkIn 2589 879
+cleanNextRoom
+checkIn 1686 321
+joinFriend 99 2567
+enterDiningRoom 4352 4380
+checkOut 4012
+joinFriend 1424 1837
+joinFriend 2555 3049
+checkIn 3702 2354
+checkIn 3137 4159
+checkIn 4257 3153
+enterDiningRoom 3617 4793
+checkIn 3555 1952
+checkIn 4626 2800
+checkOut 953
+addTable 243 4
+reheatFood
+enterDiningRoom 1806 4438
+checkOut 2567
+enterDiningRoom 4068 2103
+reheatFood
+checkIn 3573 4389
+leaveDiningRoom 3422 648
+enterDiningRoom 837 4913
+enterDiningRoom 33 4913
+checkIn 525 3776
+addTable 270 2
+cleanNextRoom
+addTable 3493 7
+checkIn 3512 3502
+enterDiningRoom 525 457
+joinFriend 3573 2760
+addTable 2748 4
+joinFriend 3919 278
+cleanNextRoom
+enterDiningRoom 2161 1313
+joinFriend 283 4032
+checkIn 587 3545
+addTable 3299 8
+addTable 1614 8
+checkIn 3403 1858
+cleanNextRoom
+checkIn 471 120
+checkIn 4730 536
+enterDiningRoom 3891 1890
+reheatFood
+addTable 4000 7
+joinTables 4758 4380
+enterDiningRoom 3833 269
+addTable 2828 7
+leaveDiningRoom 446 1313
+enterDiningRoom 959 509
+leaveDiningRoom 2431 4438
+leaveDiningRoom 4694 1641
+joinFriend 4072 1928
+leaveDiningRoom 3673 1313
+checkIn 3681 1924
+addTable 1736 1
+enterDiningRoom 3641 1548
+enterDiningRoom 1405 2569
+checkIn 3301 1454
+joinFriend 2598 587
+checkIn 3330 1253
+joinFriend 2751 2194
+checkIn 449 167
+enterDiningRoom 3621 3380
+joinFriend 4335 2182
+enterDiningRoom 494 648
+checkIn 301 1571
+enterDiningRoom 2506 4438
+checkOut 4632
+removeTable 3493
+enterDiningRoom 1686 4001
+enterDiningRoom 301 3811
+checkIn 4932 1117
+leaveDiningRoom 180 269
+checkIn -4 4942
+checkIn 192 1326
+cleanNextRoom
+joinTables 4298 2802
+cleanNextRoom
+enterDiningRoom 3654 491
+addTable 3196 3
+checkIn 4722 3018
+addTable 3844 4
+leaveDiningRoom 3935 4943
+leaveDiningRoom 2472 4880
+checkIn 405 2138
+joinTables 4876 648
+enterDiningRoom 2092 723
+enterDiningRoom 569 4876
+joinFriend 3619 4603
+checkIn 459 4714
+leaveDiningRoom 692 4438
+joinFriend 672 917
+leaveDiningRoom 3915 4438
+joinTables 269 3442
+enterDiningRoom 471 4000
+addTable 1770 3
+addTable 1592 1
+enterDiningRoom 459 4298
+addTable 3684 7
+checkIn 1126 4469
+checkOut 29
+joinTables -22 1651
+cleanNextRoom
+checkIn 879 2975
+checkIn 2008 3617
+checkIn 3679 2927
+enterDiningRoom 428 1651
+addTable 1812 4
+checkIn 3529 3470
+checkIn 3610 2195
+checkIn 3958 3093
+checkIn 989 410
+reheatFood
+checkIn 366 4945
+enterDiningRoom 2444 1592
+checkOut 3679
+checkOut 23
+enterDiningRoom 281 1134
+checkOut 1654
+joinFriend 3702 4793
+leaveDiningRoom 241 4793
+addTable 2290 3
+checkIn 168 3950
+reheatFood
+enterDiningRoom 4846 3941
+checkIn 2154 1446
+enterDiningRoom -24 3810
+addTable 32 2
+enterDiningRoom 4624 1691
+checkOut 2589
+enterDiningRoom 1534 269
+joinTables 3524 4224
+joinFriend 3836 1405
+checkOut 2092
+checkIn 3733 659
+leaveDiningRoom 1450 1691
+checkIn 1455 63
+checkIn -21 724
+leaveDiningRoom 2561 365
+cleanNextRoom
+joinTables 541 3684
+reheatFood
+checkIn 4841 4993
+checkIn 4229 1355
+joinFriend 4229 2815
+reheatFood
+checkIn 4108 3194
+checkOut 3902
+leaveDiningRoom 2411 1691
+enterDiningRoom 281 2483
+checkIn 2248 1392
+joinFriend 4694 3827
+addTable 2649 7
+checkIn 2394 394
+checkIn 2363 4077
+enterDiningRoom 449 4758
+checkIn 867 4673
+enterDiningRoom 2284 3918
+enterDiningRoom 4767 663
+checkIn 749 1210
+addTable 3630 2
+checkIn 3747 811
+checkIn 3971 3470
+cleanNextRoom
+addTable 4252 5
+enterDiningRoom 1290 1443
+enterDiningRoom 4933 1890
+addTable 3860 7
+enterDiningRoom 241 1989
+joinTables 1422 365
+leaveDiningRoom 1837 3810
+enterDiningRoom 251 3941
+checkIn 434 3507
+reheatFood
+joinTables 2519 879
+checkIn 3243 3847
+addTable 4580 3
+addTable 4084 2
+addTable 2338 6
+cleanNextRoom
+checkIn 3679 1088
+enterDiningRoom 3403 1422
+checkIn 4723 3593
+checkIn 2550 323
+addTable 964 6
+cleanNextRoom
+leaveDiningRoom 556 1313
+checkIn 3568 3242
+enterDiningRoom 2008 3299
+removeTable 243
+addTable 1574 2
+removeTable 1262
+checkOut -25
+joinTables -12 -12
+leaveDiningRoom 2368 1660
+leaveDiningRoom 959 509
+checkIn 4495 3751
+leaveDiningRoom 645 1641
+addTable 216 7
+enterDiningRoom 4108 2649
+enterDiningRoom 3330 4580
+checkIn 2080 835
+enterDiningRoom 3725 270
+leaveDiningRoom 4140 4880
+leaveDiningRoom 3330 4580
+enterDiningRoom 2154 1770
+leaveDiningRoom 3652 4438
+enterDiningRoom 3555 4298
+leaveDiningRoom 1678 4880
+joinFriend 3422 2284
+leaveDiningRoom 102 1641
+checkIn 3065 4635
+addTable 2535 3
+removeTable 2828
+removeTable 2338
+checkIn 2259 2616
+leaveDiningRoom 1428 121
+checkIn 2695 1720
+enterDiningRoom 2259 3844
+addTable 4418 2
+checkOut 879
+enterDiningRoom 3765 1641
+checkIn 1619 1896
+leaveDiningRoom 1510 1313
+checkOut 4723
+checkOut 2431
+checkIn 4586 2420
+checkIn 2310 923
+joinTables 32 4318
+checkOut 4393
+checkOut 2007
+leaveDiningRoom -8 2290
+checkIn 524 1047
+checkOut 366
+addTable 4772 7
+checkOut 587
+reheatFood
+checkIn 1547 3727
+addTable 4191 7
+joinFriend 2394 3665
+checkIn 661 3156
+addTable 3754 4
+joinFriend -6 4205
+cleanNextRoom
+enterDiningRoom 192 4793
+enterDiningRoom 3958 32
+checkOut 3019
+leaveDiningRoom 4092 4438
+checkIn 2302 1688
+enterDiningRoom 4841 1548
+checkOut 3747
+checkIn 3146 4362
+checkIn 2033 3401
+checkOut 3512
+cleanNextRoom
+checkIn 2299 3611
+checkIn 1229 3469
+cleanNextRoom
+enterDiningRoom 959 269
+checkIn 1523 2328
+enterDiningRoom 3268 2535
+leaveDiningRoom 1130 4793
+addTable 1258 8
+addTable 610 1
+enterDiningRoom 1547 1807
+addTable 1726 4
+checkIn 3787 37
+addTable 2894 5
+enterDiningRoom 1619 3844
+checkIn 1250 3505
+checkIn 2028 3792
+enterDiningRoom 1450 3196
+enterDiningRoom 2248 3811
+cleanNextRoom
+leaveDiningRoom 3170 1641
+enterDiningRoom 3679 4580
+checkIn 2793 3136
+checkIn 4248 2103
+checkIn 4635 1631
+leaveDiningRoom 1680 1660
+checkOut 692
+addTable 2234 1
+joinFriend 188 188
+checkIn 3605 2234
+cleanNextRoom
+removeTable 964
+checkIn 1104 3122
+joinTables 1989 541
+enterDiningRoom 3301 2535
+leaveDiningRoom 4396 1890
+cleanNextRoom
+checkIn 772 1158
+addTable 3878 6
+leaveDiningRoom 33 4913
+cleanNextRoom
+leaveDiningRoom 1836 5
+checkIn 4613 380
+joinFriend 661 3327
+cleanNextRoom
+checkIn 24 2198
+enterDiningRoom 2550 1989
+joinFriend 3681 3767
+checkOut 4092
+enterDiningRoom 2299 3299
+joinFriend 4140 193
+addTable 2084 8
+leaveDiningRoom 1007 1890
+enterDiningRoom 168 221
+checkIn 815 3796
+addTable 2098 3
+checkIn 3591 1885
+checkIn 1331 2176
+enterDiningRoom 3652 1736
+leaveDiningRoom 4105 4793
+checkIn 1861 4192
+checkIn 4794 2517
+joinFriend 4626 849
+enterDiningRoom 1680 221
+enterDiningRoom 4613 3165
+cleanNextRoom
+reheatFood
+joinFriend 3733 2137
+checkIn 2099 111
+leaveDiningRoom 2824 4880
+leaveDiningRoom 4838 1890
+enterDiningRoom 2793 4411
+leaveDiningRoom 503 1641
+cleanNextRoom
+checkIn 795 927
+addTable 2837 1
+enterDiningRoom 4248 4252
+checkOut 1007
+reheatFood
+checkOut 3243
+leaveDiningRoom 3784 4880
+cleanNextRoom
+checkOut 4649
+joinFriend 795 278
+checkIn 3627 4834
+removeTable -22
+leaveDiningRoom 1806 4438
+enterDiningRoom 2080 2748
+checkIn 2040 268
+leaveDiningRoom 1934 1890
+joinFriend 3591 1488
+joinFriend 2535 1474
+enterDiningRoom 2472 1890
+checkIn 2991 1348
+checkIn 4306 3135
+checkOut 2033
+checkOut 3137
+checkIn 3292 4393
+joinTables 2103 3165
+joinFriend 3684 930
+reheatFood
+addTable 4454 5
+checkIn 3055 229
+enterDiningRoom 3924 1989
+cleanNextRoom
+addTable 3738 6
+joinFriend 4774 837
+addTable 4250 2
+addTable 4818 7
+removeTable 3630
+enterDiningRoom 4730 32
+enterDiningRoom 1104 3196
+enterDiningRoom 446 1614
+checkIn 2796 1575
+cleanNextRoom
+joinTables 221 216
+addTable 610 3
+enterDiningRoom 4635 4438
+enterDiningRoom 1806 4418
+leaveDiningRoom 4353 1313
+enterDiningRoom 2310 4250
+checkIn 56 4910
+checkIn 1643 3103
+checkIn 1080 4691
+addTable 1145 2
+addTable 122 1
+enterDiningRoom 2638 4411
+joinFriend 867 1909
+enterDiningRoom 3627 3524
+addTable 186 6
+enterDiningRoom 3146 2894
+checkIn 4701 1222
+checkIn 3621 3717
+leaveDiningRoom 1972 4411
+joinFriend 3455 653
+checkIn 4888 1661
+enterDiningRoom 2282 1812
+checkOut 4257
+joinFriend 4306 1384
+checkIn 1440 1430
+enterDiningRoom 1045 1651
+joinFriend 762 2015
+enterDiningRoom 1080 4084
+checkOut 556
+cleanNextRoom
+joinTables 4084 1134
+joinTables 4250 4001
+joinFriend 1678 650
+checkIn 1257 4340
+addTable 2143 5
+enterDiningRoom 989 4758
+checkOut 1440
+joinTables 4252 2143
+addTable 1798 5
+leaveDiningRoom 2310 4250
+checkIn 998 2421
+cleanNextRoom
+reheatFood
+joinFriend 1837 4154
+checkIn 2057 2710
+leaveDiningRoom 2594 1873
+checkIn 3901 1319
+checkIn 4559 184
+joinFriend 3568 260
+checkOut -26
+addTable 763 2
+joinTables 2483 2748
+enterDiningRoom 4105 663
+checkIn 4175 645
+addTable 1163 6
+enterDiningRoom 4838 270
+checkIn 1162 4660
+checkIn 4321 376
+removeTable 2084
+checkIn 3017 1063
+addTable 3547 8
+checkOut 4093
+joinFriend 3192 3192
+joinTables 4818 2098
+enterDiningRoom 1162 3606
+checkIn 3703 4350
+checkIn 4412 4954
+checkOut 1130
+addTable 4071 4
+leaveDiningRoom 734 2483
+joinTables 4793 1614
+checkIn 4046 1892
+enterDiningRoom 4922 1258
+checkOut 33
+enterDiningRoom 2695 3606
+leaveDiningRoom 981 1641
+enterDiningRoom 1983 2973
+checkIn 3505 380
+reheatFood
+checkIn 4688 4996
+removeTable 186
+checkIn 4777 1081
+enterDiningRoom 2796 1641
+checkIn 1173 2644
+checkIn 3381 4758
+enterDiningRoom 593 -4
+enterDiningRoom 2411 4913
+addTable 4025 8
+addTable 2653 3
+leaveDiningRoom 3292 3606
+enterDiningRoom 2824 2519
+addTable 175 3
+leaveDiningRoom 2379 121
+checkIn 416 3130
+enterDiningRoom 3353 2519
+removeTable 3817
+checkIn 2481 3699
+enterDiningRoom 102 4252
+reheatFood
+removeTable 2456
+checkOut 3934
+joinFriend 1331 3735
+checkIn 3053 626
+leaveDiningRoom 3268 2535
+enterDiningRoom 4559 3738
+addTable 507 4
+enterDiningRoom 4396 1548
+enterDiningRoom 2363 4818
+checkOut 749
+joinFriend 764 3673
+checkIn 3211 4445
+enterDiningRoom 815 1145
+addTable 4193 3
+checkIn 1198 1489
+checkIn 2918 3715
+enterDiningRoom 1229 3878
+joinTables 4252 3738
+enterDiningRoom 2302 2483
+checkIn 518 3473
+leaveDiningRoom 4140 1313
+leaveDiningRoom 1626 4943
+joinFriend 2274 1229
+enterDiningRoom 974 1989
+enterDiningRoom 1972 4071
+addTable 2071 4
+joinFriend 2040 305
+enterDiningRoom 1861 2071
+addTable 1305 1
+checkIn 4395 9
+removeTable 1163
+addTable 3163 2
+checkIn -22 475
+addTable 4172 3
+enterDiningRoom 3217 2973
+leaveDiningRoom 428 1651
+enterDiningRoom 3787 4454
+removeTable 2555
+leaveDiningRoom 4562 4880
+checkIn 25 2821
+checkOut 4888
+checkIn 3979 4414
+enterDiningRoom 3915 4250
+checkIn 2026 3007
+checkIn 3478 4642
+checkIn 3328 4873
+cleanNextRoom
+joinTables 4298 493
+leaveDiningRoom 4867 4880
+checkOut 1722
+leaveDiningRoom 3422 3918
+enterDiningRoom 4412 2234
+joinFriend 645 2071
+cleanNextRoom
+removeTable -22
+leaveDiningRoom 1324 4880
+enterDiningRoom 3330 3436
+enterDiningRoom 416 121
+joinFriend 4495 4108
+enterDiningRoom 2561 1798
+checkIn 3966 3865
+enterDiningRoom 3935 4193
+joinFriend 3673 2843
+enterDiningRoom 3979 3860
+joinTables 4913 32
+checkIn 379 3042
+checkIn 2072 2989
+joinFriend 518 188
+checkIn 3959 477
+addTable 1414 2
+joinTables 2234 568
+leaveDiningRoom 1045 1651
+joinFriend 3529 3517
+enterDiningRoom 734 3811
+joinFriend 1510 2888
+cleanNextRoom
+addTable 987 1
+checkIn 4458 3367
+addTable 423 5
+joinTables 4818 3754
+checkIn 1872 3826
+enterDiningRoom 4677 3811
+enterDiningRoom 3703 1641
+enterDiningRoom -15 1258
+checkOut 3478
+removeTable 2837
+enterDiningRoom 1428 4438
+leaveDiningRoom 4248 4252
+enterDiningRoom 1872 1651
+joinFriend 3292 3061
+joinFriend 1198 2986
+leaveDiningRoom 2154 1770
+checkIn 3530 1633
+leaveDiningRoom 2689 4084
+checkOut 4175
+enterDiningRoom 4586 1798
+enterDiningRoom 998 1258
+reheatFood
+addTable 2961 2
+checkIn 4740 1621
+checkIn 2641 4314
+enterDiningRoom 3017 4818
+checkIn 620 2163
+reheatFood
+joinFriend 1173 2843
+joinTables 4818 1807
+enterDiningRoom 1250 2183
+leaveDiningRoom 4677 3811
+leaveDiningRoom 974 1989
+checkIn 2860 4283
+leaveDiningRoom 1703 1313
+joinFriend 1257 2796
+checkIn 4465 4216
+leaveDiningRoom 77 4880
+joinTables 121 5
+cleanNextRoom
+joinFriend 1680 4154
+leaveDiningRoom 3891 1890
+addTable 78 3
+checkIn 3287 1631
+checkOut 4740
+leaveDiningRoom 4676 1313
+joinFriend 1934 446
+leaveDiningRoom 3654 491
+addTable 4180 2
+removeTable 610
+enterDiningRoom 3053 1443
+enterDiningRoom 4722 4758
+checkIn 2688 1714
+enterDiningRoom 3901 4250
+checkIn 1381 684
+enterDiningRoom 2099 2519
+cleanNextRoom
+leaveDiningRoom 4994 1641
+checkOut 3784
+cleanNextRoom
+addTable 4216 4
+checkIn 1473 51
+checkIn 1102 2755
+checkIn 4028 393
+removeTable 175
+joinFriend 1643 3935
+checkIn 1387 3410
+joinFriend 1680 4826
+checkIn 3408 3662
+cleanNextRoom
+removeTable 423
+leaveDiningRoom 1614 2483
+checkIn 1113 4043
+checkIn 2514 2067
+checkIn 3288 3992
+enterDiningRoom 434 4793
+checkIn 4805 2590
+leaveDiningRoom 1250 4574
+checkIn 151 949
+enterDiningRoom 772 122
+joinTables 4193 4071
+joinFriend 428 2080
+joinTables 1422 2653
+leaveDiningRoom 2137 1691
+enterDiningRoom 4321 3524
+leaveDiningRoom 2071 4818
+leaveDiningRoom 324 4880
+addTable 3174 5
+checkIn 76 4959
+enterDiningRoom 1836 4084
+checkIn 319 2423
+joinTables 1145 2973
+checkIn 3180 3287
+checkIn 3734 1
+cleanNextRoom
+joinTables 4880 4943
+checkIn 588 2125
+joinTables 4250 1651
+removeTable 1770
+enterDiningRoom 503 2569
+joinTables 4880 2209
+addTable 3574 7
+addTable 377 6
+cleanNextRoom
+leaveDiningRoom 446 4793
+joinTables 3299 1422
+checkIn 3813 1263
+leaveDiningRoom 2555 1890
+leaveDiningRoom 3573 1660
+addTable 950 4
+enterDiningRoom 2462 3235
+joinTables 4252 4250
+leaveDiningRoom 3679 4580
+checkIn 3343 2102
+leaveDiningRoom 3979 3860
+removeTable 2961
+reheatFood
+addTable 1418 7
+checkIn 3079 364
+checkIn 4061 2298
+checkIn 3184 4091
+addTable 1379 5
+addTable 1544 8
+reheatFood
+checkIn 3721 2177
+checkOut 2594
+addTable 753 5
+joinFriend 1113 2110
+joinFriend 588 4647
+enterDiningRoom 1626 2569
+enterDiningRoom 620 763
+joinTables 491 686
+checkIn 573 2118
+checkIn 4514 1045
+joinTables 2071 78
+enterDiningRoom 2057 4793
+checkIn -1 460
+checkIn 509 2963
+addTable 2196 7
+cleanNextRoom
+checkIn 1084 1300
+removeTable 3174
+checkIn 2943 4049
+enterDiningRoom 2310 4025
+joinTables 4850 0
+enterDiningRoom 2026 3574
+checkIn 3950 3100
+checkIn 1536 4337
+enterDiningRoom 3891 3941
+enterDiningRoom 2878 2535
+enterDiningRoom 2514 4818
+reheatFood
+joinTables 1145 2196
+addTable 1301 1
+addTable 323 3
+enterDiningRoom 1703 4180
+enterDiningRoom 4458 491
+enterDiningRoom 3381 950
+enterDiningRoom 1473 3547
+checkIn 5000 3748
+addTable 2010 2
+enterDiningRoom 43 1544
+addTable 1248 6
+enterDiningRoom 2438 1234
+enterDiningRoom 1084 4850
+joinFriend 3211 3963
+removeTable 323
+checkOut 3184
+enterDiningRoom 3170 4191
+checkIn 722 591
+addTable 2894 2
+checkIn 73 1728
+joinFriend 4248 1928
+addTable 1956 2
+enterDiningRoom 180 3918
+cleanNextRoom
+enterDiningRoom 4867 3196
+checkIn 3302 2461
+joinTables 1379 2483
+checkIn 4492 535
+cleanNextRoom
+enterDiningRoom 4353 121
+checkIn 2450 3629
+leaveDiningRoom 494 4876
+checkIn 1321 1636
+leaveDiningRoom 1488 3299
+enterDiningRoom 2071 2519
+addTable 3414 2
+enterDiningRoom 1102 4191
+addTable 2904 8
+enterDiningRoom 2481 4216
+checkIn 1662 2495
+joinFriend 3573 1424
+joinFriend 3966 643
+addTable 3839 4
+checkIn 3054 524
+addTable 1301 5
+checkOut 5000
+checkIn 4827 1413
+checkIn 2146 3936
+enterDiningRoom 4932 3524
+addTable 1495 7
+enterDiningRoom 573 3844
+enterDiningRoom 77 121
+checkOut 4028
+joinTables 509 3878
+checkIn 2138 1015
+addTable 3019 8
+enterDiningRoom 4061 1956
+enterDiningRoom 2689 4000
+cleanNextRoom
+enterDiningRoom 722 1726
+joinTables 1495 1592
+checkIn 408 1681
+enterDiningRoom 2072 1548
+joinFriend 1324 2796
+addTable 2698 7
+leaveDiningRoom 3591 3299
+addTable 450 8
+checkIn 1457 1825
+checkIn 4564 4240
+enterDiningRoom 4046 2071
+removeTable 2290
+joinFriend 2991 909
+reheatFood
+checkIn 3596 2309
+enterDiningRoom 3408 3918
+joinFriend 3055 3291
+enterDiningRoom 2555 4913
+leaveDiningRoom 1814 4880
+checkIn 1687 3860
+checkIn 4014 3764
+removeTable 1248
+leaveDiningRoom 2323 -23
+checkIn 2458 922
+addTable 1201 4
+checkIn 1487 3823
+enterDiningRoom 4014 4025
+removeTable 2904
+checkIn 1069 4347
+checkIn 155 3376
+enterDiningRoom 3268 2698
+leaveDiningRoom 2718 1379
+checkIn 821 2137
+joinFriend 1455 2639
+enterDiningRoom 4701 3810
+checkOut 3328
+checkOut 1487
+checkIn 3245 3261
+enterDiningRoom 3813 3436
+enterDiningRoom 4140 4172
+enterDiningRoom 1662 3547
+checkIn 1840 297
+removeTable 4772
+enterDiningRoom 446 491
+joinFriend 1523 379
+leaveDiningRoom 525 457
+checkIn 1268 839
+enterDiningRoom 4777 4580
+checkOut 3591
+joinTables 121 3414
+addTable 3394 7
+checkIn 351 3745
+removeTable 1418
+enterDiningRoom 151 950
+checkOut 1321
+enterDiningRoom -4 3163
+joinFriend 319 2745
+checkIn 181 4239
+checkIn 4742 2261
+enterDiningRoom 1045 4025
+joinFriend 4688 3984
+leaveDiningRoom 2154 1009
+cleanNextRoom
+removeTable 450
+enterDiningRoom 3054 2103
+joinTables 1305 1145
+enterDiningRoom 2718 507
+checkIn 3713 2420
+removeTable 3394
+joinFriend 3079 1384
+leaveDiningRoom 3476 4438
+enterDiningRoom 181 1313
+enterDiningRoom 778 -30
+enterDiningRoom 155 4850
+reheatFood
+checkIn 4737 635
+addTable 3144 5
+checkIn 3441 3896
+removeTable 3839
+removeTable -26
+joinFriend 1126 3517
+joinTables 4818 4411
+removeTable 3144
+reheatFood
+leaveDiningRoom 2695 3606
+addTable -11 4
+enterDiningRoom 4737 2698
+checkIn 1388 1966
+checkOut 3586
+enterDiningRoom 4514 509
+joinFriend 4994 960
+reheatFood
+enterDiningRoom 56 1313
+checkOut 4805
+checkIn 1275 532
+joinTables 3299 1443
+enterDiningRoom 3245 377
+leaveDiningRoom 653 1890
+joinFriend 4564 4014
+checkIn 4188 2540
+checkIn 4239 3269
+addTable 535 8
+enterDiningRoom 1536 4084
+checkIn 4936 2319
+checkIn 2864 4935
+enterDiningRoom 3950 4252
+checkIn 50 2982
+enterDiningRoom 2943 4000
+joinFriend 1814 2796
+leaveDiningRoom 1250 2183
+checkOut 73
+enterDiningRoom 3959 4172
+checkIn 1679 1221
+checkIn 4714 1161
+checkIn 4530 3934
+checkIn 2787 2885
+addTable 4955 6
+joinTables 2234 3574
+checkIn 104 1748
+leaveDiningRoom 2561 1798
+checkIn 980 1401
+checkIn 2657 3864
+checkOut 3679
+checkIn 2038 2776
+removeTable -12
+checkIn 3632 752
+joinFriend 2695 3923
+enterDiningRoom 494 987
+enterDiningRoom 2450 2535
+addTable 1819 2
+checkIn 4153 4665
+joinFriend -7 3555
+checkIn 185 1908
+checkIn 497 3264
+checkIn -3 1547
+cleanNextRoom
+joinTables 4880 1544
+enterDiningRoom 3530 1798
+checkIn 3139 159
+removeTable 1819
+joinTables 3196 1873
+enterDiningRoom 2860 2010
+removeTable 3860
+enterDiningRoom 2918 2649
+checkIn 969 4681
+leaveDiningRoom 569 4876
+joinTables 2519 4580
+joinFriend 4676 548
+joinTables 1890 2535
+enterDiningRoom 351 221
+removeTable 3019
+checkIn 960 402
+enterDiningRoom 4239 1201
+enterDiningRoom 1268 3844
+joinFriend 1275 3455
+checkIn 220 4694
+leaveDiningRoom 287 4880
+cleanNextRoom
+checkIn 958 4927
+enterDiningRoom 3605 1414
+cleanNextRoom
+joinFriend 1457 2648
+leaveDiningRoom 3544 3941
+joinFriend 974 2815
+cleanNextRoom
+removeTable 1301
+joinFriend 1425 710
+joinTables 3606 4191
+joinTables 269 1989
+addTable 1262 3
+leaveDiningRoom 3793 1660
+checkOut 653
+joinFriend 3441 4777
+checkIn 3137 3014
+leaveDiningRoom 1173 1890
+addTable 1812 7
+joinFriend 525 4793
+checkIn 1787 2777
+addTable 4295 6
+checkOut 4395
+checkIn 1321 3379
+enterDiningRoom 1381 509
+cleanNextRoom
+enterDiningRoom 3139 121
+joinFriend 2154 1692
+joinTables 1201 4880
+cleanNextRoom
+leaveDiningRoom 1384 1201
+cleanNextRoom
+leaveDiningRoom 2071 2519
+leaveDiningRoom 2444 1495
+cleanNextRoom
+checkOut 958
+removeTable 2649
+checkIn 4051 -23
+enterDiningRoom 497 4758
+enterDiningRoom 1679 4000
+checkIn 1240 1571
+checkIn 947 3962
+enterDiningRoom 4827 221
+leaveDiningRoom 1084 4850
+leaveDiningRoom 1045 -2
+joinFriend 2138 4816
+enterDiningRoom 3734 4216
+joinFriend 3721 1290
+addTable 4714 2
+enterDiningRoom 408 1890
+removeTable 753
+enterDiningRoom 981 4793
+cleanNextRoom
+joinTables 269 415
+joinFriend 2688 4046
+leaveDiningRoom 4767 663
+checkIn 47 2954
+addTable 2763 1
+checkOut 2787
+leaveDiningRoom 3919 1691
+leaveDiningRoom 4753 1313
+joinTables 3436 270
+checkIn 2358 2864
+joinTables 491 2519
+joinFriend 3055 4188
+joinTables 4714 3524
+joinFriend 3180 1311
+leaveDiningRoom 3627 4714
+enterDiningRoom 980 1726
+joinTables 3163 4000
+addTable 593 6
+joinFriend 2133 47
+checkOut 4714
+checkIn 4517 2171
+joinFriend 4530 1194
+checkOut 2458
+cleanNextRoom
+addTable 433 6
+leaveDiningRoom 312 1548
+joinFriend 1908 4401
+removeTable 2839
+cleanNextRoom
+removeTable 4714
+enterDiningRoom 1787 507
+checkOut 4794
+enterDiningRoom 2038 4180
+joinTables 593 3918
+enterDiningRoom 1321 2894
+reheatFood
+removeTable 1262
+addTable 4405 3
+checkIn 3108 -26
+checkOut 1173
+enterDiningRoom 312 4295
+addTable 4236 1
+checkIn 4312 2696
+enterDiningRoom 4192 491
+checkIn 854 3468
+checkOut 4562
+enterDiningRoom 4613 -28
+checkIn 882 1251
+checkIn 205 2060
+joinTables 1890 3941
+addTable 480 7
+leaveDiningRoom 1281 2569
+addTable 847 3
+leaveDiningRoom 1106 3844
+enterDiningRoom 3288 1726
+cleanNextRoom
+checkIn 2589 4376
+addTable 4084 8
+joinTables 1660 4418
+cleanNextRoom
+leaveDiningRoom 301 3811
+joinFriend 2561 2299
+enterDiningRoom 2864 3163
+enterDiningRoom 324 3163
+addTable 2939 1
+enterDiningRoom 3919 491
+joinTables 2939 1956
+checkIn 1122 3353
+joinFriend 220 849
+addTable 4174 5
+checkIn 1191 4964
+cleanNextRoom
+leaveDiningRoom 867 4714
+joinFriend 2146 3217
+checkIn 621 691
+enterDiningRoom 4936 1414
+enterDiningRoom 2358 2569
+joinFriend 4153 1162
+checkIn 1277 592
+checkOut 4188
+checkIn 4262 519
+joinFriend 4753 1934
+leaveDiningRoom 312 4295
+joinFriend 50 1979
+enterDiningRoom 3476 457
+checkIn 1438 4934
+enterDiningRoom 4312 1574
+cleanNextRoom
+checkIn 649 1815
+removeTable 4405
+enterDiningRoom 1614 1379
+checkIn 4726 1242
+joinFriend 524 1872
+enterDiningRoom 1384 1660
+addTable 3064 5
+addTable 2376 2
+leaveDiningRoom 1474 1201
+checkIn -13 806
+checkIn 2497 2581
+joinFriend 104 4192
+addTable 1348 8
+joinFriend 2028 764
+removeTable 4295
+checkIn 1525 460
+addTable 4645 2
+enterDiningRoom 3632 763
+enterDiningRoom 4767 4174
+joinFriend 1488 1972
+joinFriend 3596 1678
+leaveDiningRoom 56 1313
+addTable 1761 8
+checkIn 90 1610
+enterDiningRoom 3627 4236
+leaveDiningRoom 4239 1201
+enterDiningRoom 3422 3436
+joinFriend 1525 1975
+joinTables 1660 221
+addTable 4143 8
+checkIn 1047 4301
+joinFriend 2368 783
+addTable 839 2
+checkIn 2478 999
+checkIn 3685 1873
+leaveDiningRoom 3383 4438
+removeTable 1761
+leaveDiningRoom 45 1890
+checkOut 854
+cleanNextRoom
+checkOut 4517
+checkIn 677 1639
+checkOut 3793
+leaveDiningRoom 292 3299
+enterDiningRoom 3653 269
+addTable 78 6
+leaveDiningRoom 2450 1890
+checkIn 3014 2480
+leaveDiningRoom 4205 1379
+leaveDiningRoom 2282 1812
+checkIn 1676 4179
+reheatFood
+enterDiningRoom 3383 2103
+joinFriend 2478 4468
+addTable 2415 2
+joinTables 2103 2698
+enterDiningRoom 4239 2415
+checkIn 674 2559
+enterDiningRoom 2282 950
+addTable 651 4
+checkIn 761 186
+joinFriend 947 493
+joinFriend 185 1162
+reheatFood
+enterDiningRoom 47 3163
+checkIn 2487 1893
+enterDiningRoom 1084 3163
+leaveDiningRoom 1425 1313
+checkOut 1250
+checkIn 198 4658
+leaveDiningRoom 3979 1395
+enterDiningRoom 621 1641
+joinTables 987 491
+leaveDiningRoom 4975 269
+joinTables 121 1691
+checkOut 312
+checkIn 2623 4388
+joinFriend 2379 448
+reheatFood
+checkIn 1699 3446
+cleanNextRoom
+checkOut 4677
+leaveDiningRoom 569 3235
+checkIn 514 529
+enterDiningRoom 90 4084
+enterDiningRoom 969 2649
+enterDiningRoom 2657 4172
+leaveDiningRoom 731 1201
+joinFriend 1191 4830
+checkIn 3554 1287
+checkIn 4683 577
+addTable 597 8
+checkIn 1106 4862
+enterDiningRoom 731 847
+addTable 2318 3
+leaveDiningRoom 2550 269
+leaveDiningRoom 1102 3606
+leaveDiningRoom 4108 2649
+joinFriend 104 2771
+checkOut 4742
+joinFriend 674 1986
+joinTables 763 507
+enterDiningRoom 867 4645
+joinFriend 3137 446
+joinTables 3196 1798
+checkIn 3199 754
+leaveDiningRoom 3322 3547
+enterDiningRoom 1106 2939
+enterDiningRoom 3343 2183
+joinFriend 514 3327
+checkOut 1047
+joinTables -22 4193
+enterDiningRoom 4726 2234
+addTable 1496 1
+addTable 2370 1
+checkOut 1122
+checkIn 872 3970
+checkIn 1895 1172
+addTable 513 5
+addTable 544 3
+leaveDiningRoom 1679 3163
+enterDiningRoom 872 1348
+addTable 3730 6
+checkIn 3796 4611
+joinTables 839 433
+enterDiningRoom 1438 3235
+leaveDiningRoom 3851 1890
+checkIn 3509 181
+joinFriend 2623 1275
+checkOut 2071
+joinFriend 1281 185
+reheatFood
+leaveDiningRoom 525 1313
+leaveDiningRoom 2943 3163
+joinFriend 2589 3813
+reheatFood
+enterDiningRoom 198 2234
+addTable 3676 2
+checkIn 676 3851
+addTable 2348 6
+checkIn 318 4005
+checkIn 3102 4599
+checkOut 4108
+addTable 2215 6
+enterDiningRoom 1840 3163
+enterDiningRoom 287 4714
+checkIn 453 480
+checkIn 1159 1611
+addTable 125 8
+reheatFood
+addTable 96 3
+checkOut 3796
+checkIn 926 3001
+enterDiningRoom 2487 2103
+leaveDiningRoom 4827 1660
+joinFriend 761 1331
+enterDiningRoom 1069 987
+checkIn 1088 3890
+addTable 1455 8
+joinFriend 56 4753
+addTable 2630 3
+enterDiningRoom 205 269
+checkIn 1207 776
+leaveDiningRoom 2325 121
+addTable 193 4
+reheatFood
+checkOut 2943
+addTable 4629 4
+checkIn 642 3744
+checkOut 2325
+checkIn 814 2368
+leaveDiningRoom -4 2939
+checkIn 4102 4464
+checkIn 2876 4441
+joinTables 96 269
+checkIn 255 4174
+removeTable 2376
+enterDiningRoom 1277 513
+checkOut 3529
+enterDiningRoom 642 4714
+addTable 616 4
+joinTables 3163 2649
+checkOut 3685
+leaveDiningRoom 1113 1313
+addTable 1401 3
+checkIn 403 3502
+checkIn 3272 2778
+checkIn 2601 2322
+enterDiningRoom 3979 2234
+checkOut 3199
+enterDiningRoom 2550 987
+checkIn 4264 2554
+leaveDiningRoom 901 1201
+joinFriend 1388 4793
+checkIn 858 4956
+addTable 2985 1
+removeTable 651
+cleanNextRoom
+enterDiningRoom 0 4818
+joinFriend 1207 3047
+checkOut 403
+reheatFood
+joinFriend 814 1525
+joinFriend 1679 3833
+addTable 675 5
+addTable 763 5
+checkIn 2785 4124
+leaveDiningRoom 4694 1201
+leaveDiningRoom 24 4438
+leaveDiningRoom 3330 3436
+checkIn 4952 688
+enterDiningRoom 525 535
+addTable 4320 1
+checkIn 4327 2230
+joinFriend 292 2793
+cleanNextRoom
+joinFriend 2876 4994
+checkIn 4866 942
+enterDiningRoom 4683 3235
+enterDiningRoom 3509 4629
+enterDiningRoom 1676 4320
+checkOut 4694
+joinFriend 255 960
+checkIn 1664 3593
+enterDiningRoom 2652 535
+checkIn 1506 2573
+checkIn 428 -6
+leaveDiningRoom 4014 4424
+enterDiningRoom 3014 3730
+addTable 2886 1
+leaveDiningRoom 4087 2839
+joinFriend 1506 1983
+checkOut 1474
+enterDiningRoom 318 1305
+checkIn 1517 1766
+enterDiningRoom 4492 2103
+checkIn 978 812
+joinTables 3064 675
+checkIn 513 4878
+addTable 4742 2
+leaveDiningRoom 77 121
+addTable 1487 1
+enterDiningRoom 882 121
+enterDiningRoom 4465 1313
+joinFriend 3851 1506
+checkOut 90
+removeTable 3064
+enterDiningRoom 4205 4216
+joinFriend 1699 738
+checkIn 2210 4706
+addTable 263 6
+enterDiningRoom 453 3235
+addTable 425 3
+addTable 991 7
+leaveDiningRoom 4603 1201
+enterDiningRoom 4262 4955
+joinTables 2763 4742
+leaveDiningRoom 849 121
+leaveDiningRoom 1367 1641
+enterDiningRoom 1113 1660
+joinFriend 2785 762
+checkOut 4264
+enterDiningRoom -19 4645
+addTable 435 4
+checkIn 719 4038
+joinFriend 978 4306
+joinFriend 719 277
+cleanNextRoom
+addTable 4226 -7
+removeTable 1401
+joinFriend 4327 4759
+removeTable 1812
+cleanNextRoom
+enterDiningRoom 661 3844
+addTable 4925 3
+joinFriend 4952 3053
+checkIn 759 2410
+checkIn 1273 2474
+enterDiningRoom 759 950
+joinTables 4298 4876
+checkOut 858
+addTable 2243 6
+leaveDiningRoom 188 1890
+enterDiningRoom 676 121
+enterDiningRoom 3102 2010
+checkIn 3962 4701
+leaveDiningRoom 4073 1641
+checkIn 107 221
+checkOut 849
+checkOut 3330
+checkIn 232 2048
+checkOut 4603
+leaveDiningRoom 4107 839
+checkIn 122 2860
+removeTable 663
+checkIn 1562 3105
+enterDiningRoom 3962 1574
+checkIn 4044 3743
+removeTable 1496
+leaveDiningRoom 2991 1890
+checkOut 2641
+joinFriend 901 4341
+joinFriend 3654 4205
+leaveDiningRoom 4774 4913
+checkIn 4539 4282
+leaveDiningRoom 2514 4818
+joinTables 457 2318
+enterDiningRoom 1102 4438
+removeTable 2243
+joinFriend 2718 2299
+checkIn 2294 2859
+enterDiningRoom 4866 535
+enterDiningRoom 2210 839
+addTable 1551 4
+leaveDiningRoom 2481 4216
+checkIn 812 2565
+enterDiningRoom 2450 4925
+checkOut 122
+checkIn 4126 2658
+cleanNextRoom
+cleanNextRoom
+addTable 265 3
+enterDiningRoom 812 1201
+enterDiningRoom 1387 265
+checkIn 3193 1227
+reheatFood
+leaveDiningRoom 3573 3810
+checkOut 2470
+checkIn 2205 1409
+addTable 1534 7
+checkIn 3374 -22
+joinFriend 2310 3444
+checkOut 1088
+leaveDiningRoom 3120 2569
+addTable 540 6
+enterDiningRoom 2481 4955
+checkIn 4973 2507
+addTable 4215 8
+enterDiningRoom 1273 839
+enterDiningRoom 3120 4955
+addTable 1132 6
+joinFriend 301 3065
+enterDiningRoom 188 987
+joinFriend 2294 4688
+removeTable 425
+joinFriend 3193 4465
+enterDiningRoom 2137 4818
+joinFriend 4073 3193
+addTable 2679 4
+leaveDiningRoom 428 1379
+enterDiningRoom 4973 839
+enterDiningRoom 926 2939
+enterDiningRoom 4827 4298
+joinFriend 4102 449
+checkIn 1613 2285
+joinFriend 2205 699
+checkIn 66 639
+enterDiningRoom 1664 1660
+checkIn 4347 1500
+addTable 2299 8
+enterDiningRoom 2497 4215
+addTable 265 5
+addTable 3405 8
+cleanNextRoom
+joinFriend 2514 1679
+addTable 1270 2
+enterDiningRoom 2581 1967
+addTable 2725 2
+checkIn 681 4519
+joinTables 3730 4174
+joinFriend 1367 1837
+enterDiningRoom 45 263
+joinFriend 681 1936
+enterDiningRoom 2991 3405
+checkOut 4044
+leaveDiningRoom 593 1201
+joinFriend 4468 66
+enterDiningRoom 4126 3299
+leaveDiningRoom 2368 2569
+enterDiningRoom 232 616
+enterDiningRoom 4347 2894
+checkIn 3843 47
+cleanNextRoom
+checkIn 3831 164
+enterDiningRoom 513 540
+joinFriend 4774 1344
+joinTables 1534 2725
+joinTables 4252 540
+enterDiningRoom 2601 2985
+checkOut 24
+joinTables 2569 847
+reheatFood
+checkOut 3272
+leaveDiningRoom 3527 1201
+checkOut 649
+checkIn 3713 4880
+addTable 2990 7
+checkOut 3831
+checkIn 1155 729
+checkOut 1613
+checkIn 1522 4716
+leaveDiningRoom 2639 2569
+enterDiningRoom 4539 3299
+checkIn 1677 4938
+leaveDiningRoom 3133 1313
+checkOut 731
+leaveDiningRoom 3915 4252
+cleanNextRoom
+removeTable 2348
+enterDiningRoom 2444 2894
+checkIn 3278 4410
+enterDiningRoom 1895 3436
+checkIn 4679 2553
+cleanNextRoom
+enterDiningRoom 428 4252
+joinFriend 107 2507
+joinTables 1379 950
+joinFriend 4975 1817
+checkIn 4757 3032
+checkOut 3573
+joinFriend 3120 980
+joinFriend 3843 4827
+joinFriend 4975 1163
+checkIn 2079 1762
+cleanNextRoom
+enterDiningRoom 1522 4818
+leaveDiningRoom 3787 4454
+addTable 656 5
+enterDiningRoom 3133 4320
+checkIn 3971 3474
+joinTables 593 -3
+cleanNextRoom
+removeTable 1534
+joinFriend 3278 3843
+enterDiningRoom 1677 839
+addTable 597 6
+addTable 847 5
+checkOut 3915
+checkIn 2135 474
+leaveDiningRoom 3079 1201
+checkIn 604 1979
+enterDiningRoom 1155 3163
+leaveDiningRoom 2612 1313
+enterDiningRoom 2079 1305
+checkOut 3713
+enterDiningRoom 1425 1132
+checkIn 4169 353
+checkIn 3213 1612
+addTable 1070 1
+cleanNextRoom
+checkIn 3584 2194
+enterDiningRoom 3544 3811
+removeTable 1070
+enterDiningRoom 3584 3436
+checkIn 4297 3112
+cleanNextRoom
+enterDiningRoom 604 839
+addTable 4817 6
+enterDiningRoom 77 480
+checkIn 1090 2073
+addTable 4257 6
+cleanNextRoom
+removeTable 1551
+joinFriend 4169 2648
+addTable 272 1
+checkOut 1562
+checkOut 3787
+checkIn 2672 2729
+checkOut 3133
+checkOut 4757
+checkOut 4679
+checkOut 2612
+checkIn 1724 3855
+addTable 870 2
+checkIn 3722 2100
+cleanNextRoom
+enterDiningRoom 3971 2370
+addTable 1370 5
+checkIn 3165 2261
+leaveDiningRoom 2843 1890
+joinTables -13 2990
+addTable 475 2
+enterDiningRoom 4297 2299
+enterDiningRoom 569 96
+checkIn 4766 4788
+joinFriend 3722 2462
+checkIn 2465 4028
+addTable 1719 6
+checkIn 3895 4017
+enterDiningRoom 2135 2299
+addTable 2498 5
+checkIn 1433 2094
+addTable 1151 7
+joinTables 377 394
+enterDiningRoom 4087 4714
+checkIn 1259 1447
+checkOut 3079
+checkIn 1973 931
+checkIn 3245 780
+checkIn 120 3849
+checkIn 1899 20
+removeTable 1495
+checkIn 3162 3979
+joinFriend 2368 3596
+joinTables 870 1548
+cleanNextRoom
+cleanNextRoom
+enterDiningRoom 1899 4955
+cleanNextRoom
+checkIn 3467 724
+enterDiningRoom 68 656
+addTable 4068 7
+enterDiningRoom 3213 4438
+cleanNextRoom
+checkOut 3467
+leaveDiningRoom 926 2939
+checkIn 1598 4846
+checkIn 4120 2374
+joinTables 3196 3299
+enterDiningRoom 2695 3811
+leaveDiningRoom 2527 3235
+enterDiningRoom 3165 839
+enterDiningRoom 4766 435
+checkIn 1293 4641
+enterDiningRoom 738 4818
+joinTables 2415 2415
+checkOut 2672
+cleanNextRoom
+joinTables 4180 763
+checkIn 2546 444
+leaveDiningRoom 902 1201
+checkIn 683 875
+leaveDiningRoom 180 593
+addTable 451 5
+addTable 2192 7
+joinTables 4793 2215
+cleanNextRoom
+checkIn 1376 4302
+addTable 3460 2
+enterDiningRoom 1090 2679
+joinFriend 1433 2743
+enterDiningRoom 2465 1890
+leaveDiningRoom 513 4252
+cleanNextRoom
+leaveDiningRoom 1309 1201
+cleanNextRoom
+removeTable 1455
+checkIn 1380 1204
+reheatFood
+enterDiningRoom 1973 475
+enterDiningRoom 3527 1379
+joinFriend 2639 974
+leaveDiningRoom 3717 1201
+addTable 1926 1
+enterDiningRoom 4293 -16
+leaveDiningRoom 3950 4252
+joinTables 457 4955
+cleanNextRoom
+joinFriend 926 3212
+addTable -3 8
+checkIn 2216 1660
+addTable 3865 8
+checkIn 2934 4415
+checkIn 2609 646
+checkIn 1891 1869
+checkIn 2756 4078
+checkIn 3771 4111
+cleanNextRoom
+enterDiningRoom 2843 265
+removeTable 1370
+joinTables -14 -14
+checkIn 3890 2508
+enterDiningRoom 1380 4850
+enterDiningRoom 4120 3676
+enterDiningRoom 1724 4629
+enterDiningRoom 1293 2498
+joinFriend 2934 4245
+enterDiningRoom 3890 616
+addTable 4010 8
+reheatFood
+enterDiningRoom 593 4793
+joinFriend 902 230
+removeTable 4454
+checkIn 3885 4872
+joinTables 263 3380
+removeTable 2763
+addTable 901 6
+checkIn 691 1175
+checkOut 513
+checkOut 3162
+leaveDiningRoom 3192 121
+enterDiningRoom 4990 3196
+enterDiningRoom 1376 435
+leaveDiningRoom 778 987
+enterDiningRoom 1259 1305
+checkIn 4651 724
+checkIn 3194 4647
+leaveDiningRoom 4353 121
+cleanNextRoom
+reheatFood
+enterDiningRoom 2527 480
+enterDiningRoom 4353 4193
+enterDiningRoom 778 78
+checkIn 845 1135
+cleanNextRoom
+addTable 2787 2
+joinFriend 1309 1380
+joinFriend 3885 2269
+joinFriend 683 2026
+enterDiningRoom 180 3460
+enterDiningRoom 2609 1736
+joinFriend 4651 1455
+leaveDiningRoom 4465 -19
+checkIn 1645 551
+checkOut 66
+checkOut 3717
+joinFriend 845 2589
+checkIn 2522 2975
+enterDiningRoom 3192 121
+joinFriend 3950 3408
+checkOut 3194
+addTable 2388 2
+joinTables 3196 193
+joinFriend 2609 2072
+leaveDiningRoom 446 987
+reheatFood
+checkIn 1790 1050
+checkIn 1649 4836
+joinTables 4758 2192
+checkIn 4182 2049
+checkOut 446
+checkOut 1895
+enterDiningRoom 2756 2630
+enterDiningRoom 691 3196
+enterDiningRoom 1645 3547
+addTable 4416 6
+checkIn 1905 4849
+checkIn 4920 3132
+checkIn 2215 4531
+leaveDiningRoom 3058 2183
+leaveDiningRoom 503 -2
+cleanNextRoom
+addTable 1394 4
+addTable 3471 6
+cleanNextRoom
+checkOut 1598
+checkIn 1700 1104
+leaveDiningRoom 1090 2679
+enterDiningRoom 2215 435
+checkIn 4135 3115
+checkIn 3783 3146
+checkIn 1638 4574
+joinTables 4817 1201
+addTable 502 2
+checkIn 2489 1035
+removeTable 1270
+leaveDiningRoom 872 1348
+addTable 2060 6
+enterDiningRoom 1905 1487
+joinFriend 3771 4105
+checkIn 2896 1885
+checkIn 2884 153
+enterDiningRoom 1790 3405
+checkIn 573 2364
+joinTables 3606 2939
+checkIn 3918 978
+leaveDiningRoom 4701 3810
+removeTable 2060
+checkIn 1361 2993
+joinFriend 3783 3441
+enterDiningRoom 1649 2498
+addTable 1913 6
+addTable 2425 4
+removeTable 1305
+joinFriend 1523 -8
+checkIn 712 1944
+addTable 4282 4
+joinTables 2053 4236
+enterDiningRoom 712 3811
+addTable 686 5
+enterDiningRoom 1376 1719
+checkIn 4741 4965
+cleanNextRoom
+addTable 4955 6
+checkIn 1248 1865
+cleanNextRoom
+addTable 919 8
+enterDiningRoom 4741 991
+leaveDiningRoom 2689 3163
+leaveDiningRoom 4936 1414
+enterDiningRoom 4182 4298
+checkIn 3612 1173
+leaveDiningRoom 2843 265
+addTable 4740 3
+checkIn 3093 506
+checkIn 4794 2382
+enterDiningRoom 4135 457
+joinFriend 2546 3491
+checkIn 522 3742
+addTable 4351 5
+joinFriend 3895 1917
+reheatFood
+cleanNextRoom
+enterDiningRoom 1700 480
+joinTables 125 121
+leaveDiningRoom 2951 3196
+leaveDiningRoom 1936 3196
+checkIn 4044 460
+checkIn 3005 2479
+joinFriend 2884 1309
+addTable 2467 7
+addTable 2142 7
+leaveDiningRoom 4220 1574
+joinFriend 525 120
+leaveDiningRoom 1546 4438
+addTable 3551 4
+checkOut 2896
+checkIn 4048 4578
+reheatFood
+enterDiningRoom 1936 2787
+leaveDiningRoom 1186 272
+checkIn 4291 468
+checkIn 4738 1795
+checkIn 3028 375
+checkIn 3349 1302
+joinFriend -8 2282
+joinTables 3810 2787
+enterDiningRoom 4794 991
+checkIn -3 2681
+removeTable -28
+addTable 3510 8
+joinTables 2630 1312
+joinFriend 258 4439
+enterDiningRoom 2689 1641
+enterDiningRoom 4291 480
+joinFriend 2368 2968
+joinFriend 4738 3610
+joinFriend 3005 2284
+enterDiningRoom 872 2990
+checkIn 1629 1735
+enterDiningRoom 4048 4252
+checkIn 3751 2228
+addTable 4246 3
+joinFriend 3813 -26
+removeTable 1394
+checkIn 3838 4782
+checkIn 4993 387
+enterDiningRoom 4993 4246
+leaveDiningRoom 4530 1660
+addTable 4792 3
+joinFriend 3244 683
+checkIn 2360 458
+enterDiningRoom 4701 870
+addTable 4025 5
+checkIn 1108 1236
+enterDiningRoom 3751 1719
+leaveDiningRoom 1905 1487
+addTable 4609 7
+leaveDiningRoom 1382 4438
+reheatFood
+addTable 4182 6
+checkIn 3752 1203
+removeTable 544
+addTable 665 2
+joinFriend 1108 3923
+joinFriend 2843 459
+checkIn 1771 4465
+addTable 3905 5
+checkIn 1092 3188
+cleanNextRoom
+addTable 4706 1
+joinFriend 1382 232
+joinTables 4645 1414
+leaveDiningRoom 2589 3436
+checkIn 2234 3906
+leaveDiningRoom 1513 125
+reheatFood
+reheatFood
+cleanNextRoom
+enterDiningRoom 1513 2894
+checkIn 2443 4044
+addTable 146 4
+checkOut 2951
+enterDiningRoom 2443 987
+joinTables 4180 1348
+addTable 4008 3
+enterDiningRoom 3093 4645
+checkIn 2837 2803
+leaveDiningRoom 2365 125
+leaveDiningRoom 2870 4817
+checkIn 4377 1581
+addTable 519 4
+joinFriend 2216 3562
+checkIn 1855 3851
+checkIn 3383 930
+checkIn 1632 3497
+checkIn 3139 828
+enterDiningRoom -21 1487
+joinTables 4025 616
+checkOut 1629
+cleanNextRoom
+joinFriend 1546 4867
+addTable 4476 2
+joinFriend 1771 4169
+leaveDiningRoom 3185 2569
+joinTables 4180 2894
+checkIn 4820 1255
+joinTables 901 4925
+enterDiningRoom 1905 3547
+leaveDiningRoom 1384 1660
+checkIn 1984 2428
+joinFriend 1984 4459
+leaveDiningRoom 4032 125
+checkOut 2234
+checkIn 4986 3619
+enterDiningRoom 4820 4817
+joinTables 4282 4084
+enterDiningRoom 1248 4193
+cleanNextRoom
+checkIn 2436 3762
+enterDiningRoom 522 4476
+joinFriend 3058 43
+removeTable 272
+leaveDiningRoom 2079 1305
+joinFriend 1090 1290
+checkIn 3084 4311
+checkIn 709 3148
+checkOut 4920
+cleanNextRoom
+reheatFood
+enterDiningRoom 2436 377
+addTable 4273 7
+leaveDiningRoom 3068 2103
+joinFriend 1361 2031
+addTable 564 2
+joinTables 1719 -26
+addTable 784 2
+leaveDiningRoom 1198 4817
+checkIn 2711 4058
+joinFriend 4986 2205
+checkIn 3651 3487
+leaveDiningRoom 4032 987
+removeTable 4008
+addTable 2886 8
+joinFriend 2360 3193
+checkIn 779 2756
+joinFriend 2589 3217
+leaveDiningRoom 3201 4817
+joinFriend 1632 1113
+joinFriend 4032 2506
+enterDiningRoom 1891 3510
+joinTables 377 2985
+joinFriend 4377 4720
+enterDiningRoom 2711 4193
+checkIn 4887 1366
+cleanNextRoom
+checkIn 2357 4837
+leaveDiningRoom 4685 1313
+removeTable 3551
+checkIn 4351 3213
+addTable 3919 8
+joinTables 847 4252
+checkIn 3104 4605
+leaveDiningRoom 4061 3606
+enterDiningRoom 709 4351
+checkIn 3066 1399
+checkOut 779
+checkIn 2356 4940
+reheatFood
+addTable 3201 2
+addTable 2145 5
+addTable 4468 1
+checkIn 4665 4071
+checkIn 32 2571
+enterDiningRoom 32 2569
+enterDiningRoom 2356 96
+addTable 4779 5
+enterDiningRoom 4061 451
+enterDiningRoom 1384 2299
+joinFriend 2689 1638
+checkIn 2612 2024
+leaveDiningRoom 3201 2183
+enterDiningRoom 3068 3201
+enterDiningRoom 4530 1726
+leaveDiningRoom 4841 870
+joinTables 4351 4714
+enterDiningRoom 2489 2679
+removeTable 1151
+enterDiningRoom 3104 3810
+cleanNextRoom
+joinFriend 4351 3958
+enterDiningRoom 2365 4273
+checkIn 3409 -26
+leaveDiningRoom 288 3810
+joinTables 1574 2345
+leaveDiningRoom 1460 125
+checkIn 3183 3631
+joinTables 265 1660
+leaveDiningRoom 3029 4818
+removeTable 4257
+leaveDiningRoom 394 3196
+enterDiningRoom 3183 4416
+enterDiningRoom 3651 4740
+enterDiningRoom 1092 4817
+enterDiningRoom 4665 3853
+checkIn 3365 510
+enterDiningRoom 2522 3471
+checkIn 4606 4203
+enterDiningRoom 1638 1641
+addTable 1094 2
+joinTables 593 4216
+leaveDiningRoom 882 125
+enterDiningRoom 4606 2234
+enterDiningRoom 2612 4182
+checkIn 3570 587
+addTable 4563 2
+enterDiningRoom 4841 4476
+enterDiningRoom 120 125
+enterDiningRoom 3365 2839
+cleanNextRoom
+leaveDiningRoom 503 2569
+checkIn 3174 3165
+cleanNextRoom
+cleanNextRoom
+joinFriend 2357 1376
+checkOut 4841
+checkIn 1395 4560
+checkIn 2617 4511
+cleanNextRoom
+checkIn 424 4853
+checkIn 2965 1396
+addTable 1807 4
+checkOut 882
+enterDiningRoom 2617 991
+checkIn 3382 492
+leaveDiningRoom 3527 1379
+joinTables 4468 4609
+checkIn 4900 2567
+addTable 2119 1
+addTable 1332 6
+enterDiningRoom 4887 2299
+leaveDiningRoom 408 1890
+leaveDiningRoom 2567 1313
+joinTables 564 991
+addTable 3679 1
+leaveDiningRoom 60 2370
+cleanNextRoom
+enterDiningRoom 4685 4282
+checkIn 2839 2560
+enterDiningRoom 2965 901
+cleanNextRoom
+leaveDiningRoom 1632 265
+joinFriend 4793 246
+checkIn 3452 4798
+leaveDiningRoom 4688 1379
+checkIn -21 121
+cleanNextRoom
+cleanNextRoom
+checkIn 587 3530
+checkIn 4248 1247
+enterDiningRoom 1198 3606
+enterDiningRoom 4936 3905
+checkIn 4912 4857
+enterDiningRoom -29 4913
+checkIn 2681 1818
+checkIn 132 4632
+addTable 3107 1
+joinFriend 2079 4166
+removeTable 665
+enterDiningRoom 3185 4476
+leaveDiningRoom 230 1890
+removeTable 1487
+enterDiningRoom 3174 96
+addTable 784 8
+checkIn 4563 3658
+leaveDiningRoom 1268 3844
+joinFriend 3382 2358
+cleanNextRoom
+enterDiningRoom 416 3326
+enterDiningRoom 4900 146
+checkIn 1987 4023
+checkIn 2515 956
+checkOut 3028
+checkIn 255 146
+joinFriend 4321 1376
+enterDiningRoom 4530 2886
+enterDiningRoom 3066 96
+enterDiningRoom 1395 847
+checkIn 899 4946
+addTable 4456 1
+enterDiningRoom 3201 4180
+enterDiningRoom 3752 2119
+checkIn 979 2270
+checkIn 4583 3258
+joinFriend 2681 812
+enterDiningRoom 587 4563
+removeTable 1807
+addTable 3904 8
+joinTables 919 4215
+leaveDiningRoom 2368 509
+joinFriend 3349 795
+checkIn 4380 4695
+joinFriend 132 3278
+checkIn 2890 560
+checkIn 4970 1267
+checkIn 1576 2643
+checkIn 227 2663
+enterDiningRoom 899 3606
+checkOut 3084
+leaveDiningRoom 4120 3676
+joinFriend 3838 292
+enterDiningRoom 3452 4182
+joinFriend 3570 4347
+joinTables 2886 263
+reheatFood
+joinFriend 4665 728
+joinFriend 4563 866
+checkOut 979
+cleanNextRoom
+leaveDiningRoom 3058 4817
+joinFriend -29 1546
+checkIn 454 2921
+checkOut 2815
+checkIn 4133 1258
+checkIn 4857 4204
+checkOut 1460
+checkOut 4133
+addTable 2939 5
+checkOut 2837
+enterDiningRoom 408 2990
+checkIn 177 3614
+addTable 2241 6
+joinTables 435 2010
+checkOut 4688
+enterDiningRoom 1632 125
+joinFriend 3527 2146
+enterDiningRoom 4912 4629
+joinFriend 227 974
+enterDiningRoom 1268 502
+addTable 4550 3
+removeTable 2939
+enterDiningRoom 4120 3436
+enterDiningRoom 230 1094
+enterDiningRoom 177 4793
+joinFriend 503 3570
+checkIn 4208 1568
+joinFriend -25 -25
+reheatFood
+checkIn 1716 4038
+enterDiningRoom 4380 3405
+leaveDiningRoom 657 1641
+leaveDiningRoom 494 987
+joinFriend 947 -9
+checkIn 1445 1915
+enterDiningRoom 2515 4282
+enterDiningRoom 1445 3163
+addTable 273 6
+joinTables 3107 1736
+leaveDiningRoom 2986 4817
+joinFriend 424 3403
+joinFriend 2368 2079
+addTable 1393 6
+joinFriend 4857 4737
+joinFriend 2839 4380
+enterDiningRoom 2870 3865
+checkOut 2890
+joinFriend 4583 1455
+checkIn 632 498
+checkIn 2122 3057
+checkIn 2166 299
+joinTables 2886 839
+leaveDiningRoom 3165 2886
+leaveDiningRoom 3061 4793
+leaveDiningRoom 604 2886
+enterDiningRoom 632 4068
+enterDiningRoom 2166 656
+addTable 4058 8
+checkIn 1537 2833
+enterDiningRoom 3058 4563
+enterDiningRoom 394 1913
+leaveDiningRoom 4827 4298
+checkOut 1576
+checkIn 776 4311
+checkOut 494
+enterDiningRoom 4208 3235
+leaveDiningRoom 4396 870
+enterDiningRoom 1987 919
+enterDiningRoom 1537 1313
+joinTables 4792 3810
+leaveDiningRoom 205 96
+enterDiningRoom 2567 1719
+addTable 2105 4
+checkIn 1411 4208
+enterDiningRoom 3029 4779
+checkOut -22
+removeTable 2241
+checkIn 3148 1667
+joinFriend 3148 319
+joinFriend -12 980
+joinTables 2145 1332
+cleanNextRoom
+checkIn 3461 316
+joinFriend 4970 4586
+joinTables 4645 451
+addTable 626 4
+checkOut 3165
+joinTables 3730 4282
+enterDiningRoom 4827 78
+addTable 1253 6
+cleanNextRoom
+joinTables 4779 4416
+enterDiningRoom -1 457
+reheatFood
+enterDiningRoom 205 1379
+checkIn 3481 1887
+removeTable 2467
+checkIn 307 1987
+enterDiningRoom 657 509
+addTable 4863 7
+enterDiningRoom 2986 4143
+addTable 4516 5
+checkIn 4832 3877
+addTable 3365 8
+removeTable 4456
+joinFriend 604 3213
+checkIn 2823 1143
+joinFriend 454 2829
+checkIn 1105 2159
+joinTables 626 4793
+checkIn 1572 2568
+leaveDiningRoom 2019 125
+checkIn 1927 2181
+checkIn 3026 4789
+checkIn 1554 4592
+joinTables 2071 3904
+enterDiningRoom 4827 4629
+cleanNextRoom
+cleanNextRoom
+leaveDiningRoom 188 987
+checkIn 366 778
+cleanNextRoom
+checkOut 188
+checkIn 317 3390
+checkOut 288
+enterDiningRoom 1927 273
+leaveDiningRoom 192 626
+checkIn 172 870
+checkIn 598 2580
+checkIn 559 115
+reheatFood
+leaveDiningRoom 2269 265
+checkIn 4582 2998
+enterDiningRoom 2732 -13
+enterDiningRoom 3026 457
+leaveDiningRoom 4701 870
+checkOut 192
+enterDiningRoom 1411 4351
+joinFriend 366 1862
+addTable 4890 7
+checkIn 1711 146
+addTable 3193 1
+joinFriend 4651 2823
+addTable 2322 4
+joinFriend 2823 2732
+checkOut 317
+leaveDiningRoom 4073 1313
+joinFriend 3461 3926
+leaveDiningRoom 761 125
+checkIn 4589 2739
+checkOut 3481
+joinFriend 559 205
+enterDiningRoom 2019 1719
+reheatFood
+leaveDiningRoom 4973 2886
+enterDiningRoom 598 4068
+checkIn 1240 794
+checkIn 2970 56
+joinTables 519 457
+leaveDiningRoom 569 96
+addTable 4694 6
+cleanNextRoom
+checkIn 270 3046
+leaveDiningRoom 980 1726
+enterDiningRoom 172 502
+joinFriend 4589 107
+enterDiningRoom 1105 3844
+addTable 488 8
+checkOut 569
+checkIn 2364 768
+joinTables 1305 597
+leaveDiningRoom 4312 1574
+cleanNextRoom
+removeTable 3811
+checkIn 2917 2794
+checkIn 3398 3376
+joinFriend 1572 2736
+checkIn 3074 3939
+removeTable 4694
+removeTable 4550
+joinFriend 1711 489
+checkIn 4002 3457
+checkIn 1961 3179
+enterDiningRoom 4002 4758
+checkIn 3127 3778
+checkOut 2269
+cleanNextRoom
+leaveDiningRoom 4468 2103
+addTable 3068 4
+checkOut 3962
+checkIn 4699 1587
+checkIn -20 4816
+checkIn 1942 1999
+addTable 1479 4
+checkOut 1240
+enterDiningRoom 307 1913
+checkIn 723 992
+enterDiningRoom 2970 3865
+joinTables 1393 1379
+leaveDiningRoom 1699 125
+enterDiningRoom 723 4850
+joinFriend 2122 4952
+checkIn 2237 4137
+checkIn 1597 2057
+checkIn 4740 897
+checkIn 3036 600
+leaveDiningRoom 4412 2234
+checkIn 496 864
+leaveDiningRoom 3958 4913
+cleanNextRoom
+checkIn 66 1251
+enterDiningRoom 890 4563
+leaveDiningRoom 902 1890
+addTable 3676 4
+reheatFood
+joinTables 4468 1313
+removeTable 1926
+addTable 3629 7
+joinFriend 4975 -16
+checkOut 4734
+checkIn 2297 140
+joinFriend 4468 3562
+joinFriend 4312 1586
+addTable 3476 3
+leaveDiningRoom 4939 626
+joinFriend 2364 2294
+leaveDiningRoom 4563 1641
+enterDiningRoom 902 265
+joinTables 3510 4025
+checkIn 435 1372
+checkOut 2443
+leaveDiningRoom 4347 4180
+enterDiningRoom 4396 2370
+addTable 2644 8
+leaveDiningRoom 1248 4193
+checkIn 3333 2676
+removeTable 4706
+checkOut 1597
+joinFriend 4701 1395
+cleanNextRoom
+checkOut 4396
+joinFriend 3333 4737
+checkIn 3034 165
+enterDiningRoom 2237 2145
+leaveDiningRoom 3652 3107
+joinFriend 2297 180
+enterDiningRoom 3061 96
+checkIn 3395 200
+addTable 2526 5
+addTable 1427 5
+removeTable 4516
+leaveDiningRoom 4002 4758
+reheatFood
+joinFriend 980 4114
+joinFriend 3958 2336
+enterDiningRoom 761 1913
+checkIn 1668 36
+leaveDiningRoom -17 475
+checkIn 1324 4516
+enterDiningRoom 4347 4890
+joinFriend 1699 3762
+checkIn 1467 2051
+enterDiningRoom 4699 1574
+enterDiningRoom 1942 4143
+enterDiningRoom 3034 4058
+checkIn 4879 138
+addTable 1129 8
+checkOut 3074
+joinFriend 4740 3703
+enterDiningRoom 4973 3547
+reheatFood
+enterDiningRoom 4741 -14
+joinFriend 4900 4900
+checkIn 3656 1299
+checkIn 3730 3392
+reheatFood
+enterDiningRoom 3652 3547
+leaveDiningRoom 3668 1890
+enterDiningRoom 2917 4850
+joinFriend 496 2356
+cleanNextRoom
+enterDiningRoom 3730 2105
+enterDiningRoom 3127 1890
+enterDiningRoom 3656 3905
+checkIn 2651 678
+checkIn 4645 4585
+joinFriend 4412 4722
+checkIn 4261 4084
+cleanNextRoom
+enterDiningRoom 4879 1258
+joinFriend -20 3223
+enterDiningRoom 2651 2388
+reheatFood
+addTable 2870 6
+leaveDiningRoom 3681 4817
+enterDiningRoom 1248 1641
+leaveDiningRoom 3811 265
+enterDiningRoom 4002 1253
+enterDiningRoom 1467 870
+enterDiningRoom 4645 3196
+addTable 3442 2
+checkIn 54 1389
+enterDiningRoom -18 3865
+enterDiningRoom 270 1129
+addTable 2517 8
+checkIn 4762 4747
+leaveDiningRoom 4169 4817
+checkOut 3668
+joinTables 4818 4890
+joinFriend 3395 4061
+checkOut 3811
+leaveDiningRoom 283 125
+checkIn 2116 3736
+cleanNextRoom
+addTable 1655 6
+checkIn 4785 2095
+addTable 4353 2
+checkOut 1554
+leaveDiningRoom 448 870
+cleanNextRoom
+joinFriend 4785 1649
+checkOut 283
+leaveDiningRoom 2302 1393
+enterDiningRoom 435 1393
+joinFriend 4939 3268
+joinFriend 1668 1711
+cleanNextRoom
+leaveDiningRoom 3984 1393
+joinFriend 318 318
+checkIn 925 3205
+enterDiningRoom 4762 2103
+checkIn 3345 568
+enterDiningRoom 3984 4320
+leaveDiningRoom 2135 2299
+addTable 4064 8
+joinFriend 3345 3005
+enterDiningRoom 4582 4758
+cleanNextRoom
+cleanNextRoom
+joinTables 4817 2103
+checkOut 4261
+checkIn 2002 3956
+checkIn 2857 4379
+enterDiningRoom 66 686
+enterDiningRoom 2857 519
+addTable 4403 6
+checkIn 4887 4840
+checkIn 558 4526
+enterDiningRoom 2002 2679
+addTable 2934 4
+enterDiningRoom 925 3865
+enterDiningRoom 558 919
+checkOut 4832
+enterDiningRoom 4563 125
+leaveDiningRoom 3751 1719
+checkIn 3631 2928
+addTable 4920 3
+addTable 4394 4
+joinFriend 4073 2567
+cleanNextRoom
+leaveDiningRoom 2870 3865
+leaveDiningRoom -25 4298
+cleanNextRoom
+checkIn 4705 4459
+cleanNextRoom
+leaveDiningRoom 378 4817
+enterDiningRoom 54 4143
+removeTable 2425
+enterDiningRoom -17 4180
+joinTables 535 847
+removeTable 2322
+enterDiningRoom 4705 593
+checkOut 3631
+leaveDiningRoom 4924 1641
+joinTables 870 3510
+enterDiningRoom 2116 4403
+leaveDiningRoom 1630 1890
+enterDiningRoom 1909 -19
+checkIn 1137 121
+checkIn 1238 807
+leaveDiningRoom 899 3606
+checkOut 378
+removeTable 1427
+enterDiningRoom 2522 -23
+leaveDiningRoom 1324 1641
+checkIn 1939 4966
+enterDiningRoom 1137 146
+checkOut 3751
+enterDiningRoom 1939 2517
+checkIn 2788 4365
+cleanNextRoom
+cleanNextRoom
+enterDiningRoom 1238 870
+checkIn 3255 3586
+enterDiningRoom 2870 1726
+addTable 2528 1
+addTable 3192 5
+checkIn 210 1880
+addTable 2068 -16
+enterDiningRoom 210 4792
+checkIn 2677 1543
+enterDiningRoom 3255 3365
+checkIn 2763 2477
+enterDiningRoom 2788 4818
+addTable 4353 7
+leaveDiningRoom 4589 4817
+checkIn 229 1473
+checkOut 2135
+checkIn 294 178
+enterDiningRoom 2677 3365
+addTable 1882 2
+cleanNextRoom
+joinFriend 2763 1984
+joinTables 4064 4353
+cleanNextRoom
+leaveDiningRoom 1837 4817
+enterDiningRoom 229 2644
+leaveDiningRoom 3791 4468
+joinFriend 294 104
+checkIn 1727 2891
+addTable 3120 2
+leaveDiningRoom 2363 4818
+enterDiningRoom 1727 2679
+checkIn 2731 281
+checkIn 4480 254
+checkIn 2385 2884
+leaveDiningRoom 1546 3196
+removeTable 1479
+checkIn 3264 3441
+leaveDiningRoom 3926 4792
+checkIn 4298 2496
+checkIn 1171 3123
+joinFriend 3264 3966
+checkIn 2512 1315
+joinFriend 2731 4722
+checkIn 290 2522
+checkIn 4080 2825
+joinFriend 290 3318
+checkOut 2363
+addTable 2816 8
+checkIn 539 3090
+addTable 1680 3
+enterDiningRoom 4480 656
+checkIn 3593 4621
+addTable 2690 2
+cleanNextRoom
+addTable 618 5
+checkOut 2302
+reheatFood
+checkIn 3844 4215
+leaveDiningRoom 2612 4182
+joinFriend 2512 1069
+addTable 1110 2
+cleanNextRoom
+enterDiningRoom 539 535
+checkIn 341 979
+joinFriend 3844 281
+leaveDiningRoom 3657 4337
+addTable 1883 2
+checkIn 4704 -22
+addTable 4765 8
+cleanNextRoom
+checkIn 209 3028
+cleanNextRoom
+enterDiningRoom 448 3606
+joinFriend 4589 4726
+joinFriend 4080 1424
+cleanNextRoom
+enterDiningRoom 4924 519
+cleanNextRoom
+addTable 1989 1
+joinFriend 3984 3765
+joinFriend 899 2535
+joinFriend 1837 270
+cleanNextRoom
+leaveDiningRoom 4347 4818
+enterDiningRoom 209 564
+checkIn 2905 3986
+removeTable 488
+checkOut 1171
+checkIn 4773 4260
+enterDiningRoom 341 593
+checkIn 807 3289
+checkIn 3089 4529
+leaveDiningRoom 2248 3811
+leaveDiningRoom 3005 593
+joinTables 3905 3365
+enterDiningRoom 1546 1641
+enterDiningRoom 3926 1726
+leaveDiningRoom 2443 987
+leaveDiningRoom 172 502
+checkIn 4713 2946
+checkOut 4773
+leaveDiningRoom 2986 4143
+reheatFood
+checkIn 2644 233
+leaveDiningRoom 3089 3405
+joinFriend 3791 2057
+enterDiningRoom 1324 4172
+addTable 1877 4
+leaveDiningRoom 4347 4068
+leaveDiningRoom 4169 4246
+enterDiningRoom 4298 2816
+enterDiningRoom 4713 2839
+joinFriend 3005 379
+checkIn -22 102
+joinFriend 2385 3678
+checkOut 3681
+enterDiningRoom 3593 2053
+checkIn 3598 2603
+checkIn 894 1602
+leaveDiningRoom 1979 4817
+leaveDiningRoom 1638 1641
+enterDiningRoom 2248 1882
+enterDiningRoom 2563 4863
+enterDiningRoom 2644 3853
+checkIn 2672 4104
+leaveDiningRoom 2133 -8
+checkOut 1324
+reheatFood
+enterDiningRoom 3089 4645
+checkIn 445 3133
+checkIn 1219 3827
+joinFriend 445 3979
+enterDiningRoom 1638 2388
+enterDiningRoom 2644 4468
+leaveDiningRoom 2365 4273
+checkOut 2612
+checkIn 2158 466
+checkIn 1784 4726
+enterDiningRoom 4713 146
+checkIn 4417 430
+enterDiningRoom 2986 4182
+checkIn 3679 2537
+reheatFood
+checkOut 2443
+cleanNextRoom
+leaveDiningRoom 3733 125
+joinFriend 172 1536
+enterDiningRoom 3679 3476
+checkIn 2997 15
+enterDiningRoom 3593 4863
+enterDiningRoom 4347 3853
+joinFriend 1630 4651
+leaveDiningRoom 3984 1641

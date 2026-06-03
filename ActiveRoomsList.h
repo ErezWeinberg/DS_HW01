@@ -2,77 +2,86 @@
 #define ACTIVE_ROOMS_LIST_H
 
 #include "Room.h"
-#include "wet1util.h" // For StatusType and output_t
+#include "wet1util.h"
 
 class ActiveRoomsList {
 private:
     Room* head_m;
     Room* tail_m;
     Room* nextRoomToClean_m;
+    int lastCleaned_m; // שומר את המזהה של החדר האחרון שנוקה
+
+    // פונקציית העזר הקסומה: בודקת אם חדר a צריך להיות מנוקה לפני חדר b
+    bool isBetter(int a, int b) {
+        bool a_after = (a > lastCleaned_m);
+        bool b_after = (b > lastCleaned_m);
+
+        if (a_after && !b_after) return true;
+        if (!a_after && b_after) return false;
+        return a < b;
+    }
 
 public:
-    ActiveRoomsList() : 
-        head_m(nullptr), tail_m(nullptr), nextRoomToClean_m(nullptr) {}
+    ActiveRoomsList() :
+        head_m(nullptr), tail_m(nullptr), nextRoomToClean_m(nullptr), lastCleaned_m(-1) {}
 
-    // Rule of Zero: No dynamic allocation in this class, raw pointers are non-owning.
     ~ActiveRoomsList() = default;
 
     ActiveRoomsList(const ActiveRoomsList&) = delete;
     ActiveRoomsList& operator=(const ActiveRoomsList&) = delete;
 
-    // Insert a new room after the given predecessor. 
-    // If predecessor is nullptr, insert at the head.
     void insertRoom(Room* newRoom, Room* predecessor) {
         if (!newRoom) {
             return;
         }
 
+        // --- הכנסה רגילה לרשימה המקושרת ---
         if (!head_m) {
-            // List is empty
             head_m = newRoom;
             tail_m = newRoom;
             newRoom->setNext(nullptr);
             newRoom->setPrev(nullptr);
-            nextRoomToClean_m = newRoom; 
         } else if (!predecessor) {
-            // Insert at head
             newRoom->setNext(head_m);
             newRoom->setPrev(nullptr);
             head_m->setPrev(newRoom);
             head_m = newRoom;
         } else {
-            // Insert after predecessor
             Room* successor = predecessor->getNext();
             newRoom->setNext(successor);
             newRoom->setPrev(predecessor);
             predecessor->setNext(newRoom);
-            
+
             if (successor) {
                 successor->setPrev(newRoom);
             } else {
-                // newRoom is the new tail
                 tail_m = newRoom;
             }
         }
-        
-        // Ensure nextRoomToClean_m is valid
+
+        // --- עדכון חכם של המצביע לניקיון ---
         if (!nextRoomToClean_m) {
-            nextRoomToClean_m = head_m;
+            nextRoomToClean_m = newRoom;
+        } else {
+            // אם החדר החדש "עוקף בתור" לפי חוקי המעגל, המצביע יעבור אליו!
+            if (isBetter(newRoom->getRoomNum(), nextRoomToClean_m->getRoomNum())) {
+                nextRoomToClean_m = newRoom;
+            }
         }
     }
 
-    // Remove a room and handle the nextRoomToClean_m pointer carefully
     void removeRoom(Room* roomToRemove) {
         if (!roomToRemove) {
             return;
         }
 
-        // If we are removing the room that is next to be cleaned, advance the pointer
         if (nextRoomToClean_m == roomToRemove) {
             nextRoomToClean_m = nextRoomToClean_m->getNext();
+            // אם החדר שהוסר היה האחרון ברשימה, צריך לקפוץ להתחלה
             if (!nextRoomToClean_m && head_m && head_m != roomToRemove) {
-                // If we reached the end, wrap around to head
-                nextRoomToClean_m = head_m; 
+                nextRoomToClean_m = head_m;
+            } else if (!nextRoomToClean_m) {
+                nextRoomToClean_m = nullptr;
             }
         }
 
@@ -90,24 +99,25 @@ public:
         } else {
             tail_m = prevRoom;
         }
-        
-        // If the list is now empty
+
         if (!head_m) {
             nextRoomToClean_m = nullptr;
         }
     }
 
-    // O(1) operation to return the next room and advance the pointer
     output_t<int> cleanNext() {
         if (!nextRoomToClean_m) {
             return output_t<int>(StatusType::FAILURE);
         }
 
         int roomToReturn = nextRoomToClean_m->getRoomNum();
-        
+
+        // מעדכנים מהו החדר האחרון שנוקה
+        lastCleaned_m = roomToReturn;
+
         nextRoomToClean_m = nextRoomToClean_m->getNext();
         if (!nextRoomToClean_m) {
-            nextRoomToClean_m = head_m; // Wrap around to the beginning
+            nextRoomToClean_m = head_m;
         }
 
         return output_t<int>(roomToReturn);

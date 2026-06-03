@@ -1,0 +1,10 @@
+checkIn 9 17
+cleanNextRoom
+addTable 7 3
+enterDiningRoom 9 7
+enterDiningRoom 16 18
+checkIn 7 18
+reheatFood
+checkIn 1 3
+joinFriend 7 9
+leaveDiningRoom 9 7
